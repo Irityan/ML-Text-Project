@@ -37,6 +37,56 @@
         "Data source": "https://irecommend.ru/content/khoroshaya-chestnaya-firma-s-zhelaniem-razvivatsya",
         "tonality": "p1",
         "filename": "p1//khoroshaya-chestnaya-firma-s-zhelaniem-razvivatsya.txt"
+    },
+
+    { 
+        "student_name": "Курасов Илья",
+        "student_group": 651,
+        "student_number": 16,
+        "date": "2016-09-17", 
+        "Data source": "https://irecommend.ru/content/uzhasnaya-organizatsiya-poezdki-polnymi-neprofessionalami",
+        "tonality": "m1",
+        "filename": "m1//uzhasnaya-organizatsiya-poezdki-polnymi-neprofessionalami.txt"
+    },
+
+    { 
+        "student_name": "Курасов Илья",
+        "student_group": 651,
+        "student_number": 16,
+        "date": "2017-08-21", 
+        "Data source": "https://irecommend.ru/content/prosto-otvratitelno-uzhasnyi-tur",
+        "tonality": "m1",
+        "filename": "m1//prosto-otvratitelno-uzhasnyi-tur.txt"
+    },
+
+    { 
+        "student_name": "Курасов Илья",
+        "student_group": 651,
+        "student_number": 16,
+        "date": "2017-08-22", 
+        "Data source": "https://irecommend.ru/content/na-starom-avtobuse-zhizn-puteshestvuyushchego-pod-ugrozoi",
+        "tonality": "zero",
+        "filename": "zero//na-starom-avtobuse-zhizn-puteshestvuyushchego-pod-ugrozoi.txt"
+    },
+
+    { 
+        "student_name": "Курасов Илья",
+        "student_group": 651,
+        "student_number": 16,
+        "date": "2018-09-06", 
+        "Data source": "https://irecommend.ru/content/uzhasnaya-organizatsiya-ne-kvalifitsirovannyi-gid-zamena-programmy-tura",
+        "tonality": "m1",
+        "filename": "m1//uzhasnaya-organizatsiya-ne-kvalifitsirovannyi-gid-zamena-programmy-tura.txt"
+    },
+
+    { 
+        "student_name": "Курасов Илья",
+        "student_group": 651,
+        "student_number": 16,
+        "date": "2013-01-02", 
+        "Data source": "https://irecommend.ru/content/ochen-plokho-43",
+        "tonality": "m1",
+        "filename": "m1//ochen-plokho-43.txt"
     }
    
 ]
