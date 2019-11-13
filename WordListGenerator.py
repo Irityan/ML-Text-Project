@@ -89,7 +89,7 @@ def load(filepath) -> dict:
         with open(filepath, 'r') as file:
             text = file.read()
             lines = text.split("\n")
-            wordList = {i.split(" - ")[0] : i.split(" - ")[1] for i in lines}
+            wordList = {i.split(" - ")[0] : int(i.split(" - ")[1]) for i in lines}
             
             return wordList
     except PermissionError:
