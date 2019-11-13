@@ -4,6 +4,20 @@
 Преобразует исходные текстовые данные в список вида 
 wordList[<слово>] = <место по частоте> (то есть, 1 - самое испоьзуемое слово и т.д.)
 Например, для английского датасета IMDB wordList["the"] = 1.
+
+Использование:
+WordListGenerator.py -s <строка> //обработка строки
+WordListGenerator.py -f <имя файла> //обработка файла
+WordListGenerator.py -F <путь 1> <путь 2> ... <путь N> //обработка списка путей (как файлы, так и директории)
+WordListGenerator.py -F . //Обработка всех файлов в каталоге (с проходом по директориям)
+
+По умолчанию список слов выводится в консоль (выходной поток).
+Можно добавить аргумент -o, чтобы вывести список в файл:
+WordListGenerator.py <Входные данные, см. выше> -o <путь к выходному файлу>
+
+Конкретные примеры:
+WordListGenerator.py -f Aelita.txt -o words.txt // обработать файл Aelita.txt и вывести результат в файл words.txt
+WordListGenerator.py -F m1 p1 zero -o wordList.txt // обработать папки m1, p1, zero и вывести результат в файл wordList.txt
 '''
 
 import sys
@@ -12,6 +26,7 @@ import re
 import argparse
 from collections import Counter
 import TextHelper
+import FileHelper
 
 _SUPPORTED_EXTENSIONS = ["txt"]
 
@@ -31,17 +46,11 @@ def fromFile(filepath) -> dict:
     if not ("." in filepath and filepath.split(".")[-1].lower() in _SUPPORTED_EXTENSIONS):
         print("Неподдерживаемый тип файла")
         return None
-    try:
-        with open(filepath, 'r') as file:
-            text = file.read()
-            lines = " ".join(text.split("\n"))
-            
-            return fromString(lines)
-    except FileNotFoundError:
-        print("Ошибка: Входной файл не найден.")
-    except Exception as e:
-        print("Неизвестная ошибка!")
-        print(repr(e))
+    
+    text = FileHelper.readFile(filepath)
+    lines = " ".join(text.split("\n"))
+    
+    return fromString(lines)
 
 def fromFiles(pathList) -> dict:
     '''
@@ -64,21 +73,18 @@ def fromFiles(pathList) -> dict:
     #Теперь fileList содержит список путей к файлам с поддерживаемым расширением
     wordCount = dict()
     for file in fileList:
-        try:
-            with open(file, 'r') as f:
-                lines = f.read().split('\n')
-                for l in lines:
-                    words = TextHelper.splitWords(l)
-                    for w in words:
-                        if w in wordCount.keys():
-                            wordCount[w] += 1
-                        else:
-                            wordCount[w] = 1
-        except Exception as e:
-            print('Ошибка при обработке файла "{}"'.format(file))
-    
+        text = FileHelper.readFile(file)
+        lines = text.split('\n')
+        for l in lines:
+            words = TextHelper.splitWords(l)
+            for w in words:
+                if w in wordCount.keys():
+                    wordCount[w] += 1
+                else:
+                    wordCount[w] = 1        
+
     sortedWords = sorted(wordCount.items(), key=lambda x:x[1], reverse=True)
-    wordList = { sortedWords[i][0] : i + 1 for i in range(len(sortedWords))}
+    wordList = { sortedWords[i][0] : i + 1 for i in range(len(sortedWords))}    
     
     return wordList
 
