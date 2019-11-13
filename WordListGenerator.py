@@ -36,7 +36,7 @@ def makePretty(wordList : dict) -> list:
     return "\n".join(["{} - {}".format(key, wordList[key]) for key in wordList])
 
 def fromString(text : str) -> dict:
-    words = TextHelper.splitWords(text)
+    words = TextHelper.splitWords(text.lower())
     wordsByOccurence = Counter(words).most_common()
     sortedWords = {wordsByOccurence[i][0] : i + 1 for i in range(len(wordsByOccurence))}
     
@@ -53,27 +53,13 @@ def fromFile(filepath) -> dict:
     return fromString(lines)
 
 def fromFiles(pathList) -> dict:
-    '''
-    Разворачиваем список путей (в котором могут быть как файлы, так и папки) в список
-    путей к файлам. (берутся только файлы с расширением .txt)
-    '''
-    fileList = []
-    while len(pathList) > 0:
-        path = pathList.pop()
-        if os.path.isdir(path):
-            pathList.extend([os.path.join(path, f) for f in os.listdir(path)])
-        elif os.path.isfile(path):
-            fileName = os.path.basename(path)
-            if fileName.split(".")[-1].lower() in _SUPPORTED_EXTENSIONS:
-                fileList.append(path)
-        else:
-            print("couldn't find {}".format(path))  
     
+    fileList = FileHelper.getFilePaths(pathList, extensions=_SUPPORTED_EXTENSIONS)    
     
     #Теперь fileList содержит список путей к файлам с поддерживаемым расширением
     wordCount = dict()
     for file in fileList:
-        text = FileHelper.readFile(file)
+        text = FileHelper.readFile(file).lower()
         lines = text.split('\n')
         for l in lines:
             words = TextHelper.splitWords(l)
@@ -112,7 +98,7 @@ def load(filepath) -> dict:
         print("Неизвестная ошибка")
         print(repr(e))
 
-def _makeParser():
+def _makeParser() -> argparse.ArgumentParser:
     parser = argparse.ArgumentParser()
     
     inputGroup = parser.add_mutually_exclusive_group(required=True)
