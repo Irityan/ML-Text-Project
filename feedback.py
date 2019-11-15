@@ -2,7 +2,7 @@ from bs4 import BeautifulSoup
 import requests
 import re
 
-url = 'https://irecommend.ru/content/polnoe-nedoverie-k-tur-operatoru'
+url = 'https://irecommend.ru/content/govoryu-kak-turagent-ne-vybiraite-pegas'
 #p1 полож
 #m1 отриц
 #zero нейтр
