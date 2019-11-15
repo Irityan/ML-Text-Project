@@ -2,11 +2,11 @@ from bs4 import BeautifulSoup
 import requests
 import re
 
-url = ''
+url = 'https://irecommend.ru/content/polnoe-nedoverie-k-tur-operatoru'
 #p1 полож
 #m1 отриц
 #zero нейтр
-tonality = "zero"
+tonality = "m1"
 
 timeTxt = ''
 
@@ -119,7 +119,7 @@ def addTextInFileJson():
     print(timeTxt)
     # -*- coding: utf-8 -*-
     F = open('AVSafeeva.json', 'a')
-    text = '{'+"\n"'"student_name": "Safeeva Nastya",'+ "\n"'"student_group": 651,'+ "\n"'"student_number": 3,'+ "\n"'"date": "'+timeTxt+'",'+ "\n"'"Data source": "'+url+'",'+ "\n"'"tonality": "'+tonality+'",'+ "\n"'"filename":'+filename+'"'+ "\n"'},'+"\n"
+    text = '{'+"\n"'"student_name": "Safeeva Nastya",'+ "\n"'"student_group": 651,'+ "\n"'"student_number": 3,'+ "\n"'"date": "'+timeTxt+'",'+ "\n"'"Data source": "'+url+'",'+ "\n"'"tonality": "'+tonality+'",'+ "\n"'"filename":"'+filename+'"'+ "\n"'},'+"\n"
     F.write(text)
     F.close()
 
