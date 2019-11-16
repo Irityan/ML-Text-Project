@@ -31,7 +31,7 @@ class DataEncoder:
     def encodeText(self, text: str, maxLength: int = -1) -> list:
         words = splitWords(text)
 
-        # Убираем лишние слова, чтобы не тратить время на их перевод
+        # Убираем лишние слова
         if 0 < maxLength < len(words):
             words = words[:maxLength - 1]
 
@@ -41,7 +41,6 @@ class DataEncoder:
                 encodedText.append(self.wordList[word] + len(DataEncoder.specialCodes) - 1)
             else:
                 encodedText.append(DataEncoder.unknownCode)
-            #encodedText.append(self.wordList.get(word, DataEncoder.unknownCode))
 
         if maxLength > 0 and len(encodedText) < maxLength:
             encodedText[:0] = [DataEncoder.paddingCode]*(maxLength - len(encodedText))

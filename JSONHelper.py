@@ -3,7 +3,7 @@ import FileHelper
 import json
 import os
 
-class _JSONFields:
+class JSONFields:
     studentName = "student_name"
     studentGroup = "student_group"
     studentNumber = "student_number"
@@ -15,10 +15,10 @@ class _JSONFields:
     relevantFields = (tonality, filename)
 
     def isRelevant(field):
-        return field in _JSONFields.relevantFields
+        return field in JSONFields.relevantFields
 
 
-def getData(inputFile, relevant: bool = False) -> list:
+def getData(inputFile) -> list:
     textData = FileHelper.readFile(inputFile)
     jsonData = json.loads(textData)
 
@@ -30,35 +30,33 @@ def getData(inputFile, relevant: bool = False) -> list:
     '''
     localPath = os.path.dirname(inputFile)
     for i in range(len(jsonData)):
-        filename = jsonData[i][_JSONFields.filename]
+        filename = jsonData[i][JSONFields.filename]
         if not os.path.isabs(filename):
-            jsonData[i][_JSONFields.filename] = os.path.join(localPath, filename)
-
-    #Если нужно, убираем не используемые значения
-    if relevant:
-        for i in range(len(jsonData)):
-            jsonData[i] = {k : v for k, v in jsonData[i].items() if _JSONFields.isRelevant(k)}
+            jsonData[i][JSONFields.filename] = os.path.join(localPath, filename)
 
     return jsonData
 
 
-def mergeFiles(fileList, relevant : bool = False, outputFile = None) -> list:
+def mergeFiles(fileList, outputFile = None) -> list:
     filePaths = FileHelper.getFilePaths(fileList, extensions=["json"])
     if len(filePaths) == 0:
         return []
     elif len(filePaths) == 1:
-        return getData(filePaths[0], relevant=relevant)
+        return getData(filePaths[0])
 
     jsonData = []
     for i in filePaths:
-        jsonData.extend(getData(i,relevant=relevant))
+        jsonData.extend(getData(i))
 
-    return  jsonData
+    if outputFile != None:
+        with open(outputFile, 'w', encoding='utf-8') as fp:
+            data = json.dump(jsonData, fp, ensure_ascii=False, indent=3)
 
+    return jsonData
 
 def _printOutReviews(data : list):
     for i in range(len(data)):
-        reviewText = FileHelper.readFile(data[i][_JSONFields.filename])
-        print("{} - {}:\n{}".format(i+1,
-                                    data[i][_JSONFields.tonality],
-                                 reviewText))
+        reviewText = FileHelper.readFile(data[i][JSONFields.filename])
+        print("{} - {}:\n{}".format(i + 1,
+                                    data[i][JSONFields.tonality],
+                                    reviewText))

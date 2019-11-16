@@ -30,17 +30,51 @@ import FileHelper
 
 _SUPPORTED_EXTENSIONS = ["txt"]
 
+def _countWords(text : str, appendTo : dict = None) -> dict:
+    if appendTo == None:
+        wordCount = dict()
+    else:
+        wordCount = appendTo
+
+    text = text.lower()
+    lines = text.split('\n')
+    for l in lines:
+        words = TextHelper.splitWords(l)
+        for w in words:
+            if w in wordCount.keys():
+                wordCount[w] += 1
+            else:
+                wordCount[w] = 1
+
+    return wordCount
+
+def _wordCountToDict(wordCount : dict) -> dict:
+    sortedWords = sorted(wordCount.items(), key=lambda x: (-x[1], x[0]), reverse=False)
+    wordList = {sortedWords[i][0]: i + 1 for i in range(len(sortedWords))}
+
+    return wordList
+
 def makePretty(wordList : dict) -> list:
     if wordList == None:
         return ""
     return "\n".join(["{} - {}".format(key, wordList[key]) for key in wordList])
 
 def fromString(text : str) -> dict:
-    words = TextHelper.splitWords(text.lower())
-    wordsByOccurence = Counter(words).most_common()
-    sortedWords = {wordsByOccurence[i][0] : i + 1 for i in range(len(wordsByOccurence))}
+    wordCount = _countWords(text)
+    wordList = _wordCountToDict(wordCount)
     
-    return sortedWords
+    return wordList
+
+
+def fromStrings(textList : list) -> dict:
+    wordCount = dict()
+    for text in textList:
+        _countWords(text, wordCount)
+
+    wordList = _wordCountToDict(wordCount)
+
+    return wordList
+
 
 def fromFile(filepath) -> dict:
     if not ("." in filepath and filepath.split(".")[-1].lower() in _SUPPORTED_EXTENSIONS):
@@ -59,18 +93,10 @@ def fromFiles(pathList) -> dict:
     #Теперь fileList содержит список путей к файлам с поддерживаемым расширением
     wordCount = dict()
     for file in fileList:
-        text = FileHelper.readFile(file).lower()
-        lines = text.split('\n')
-        for l in lines:
-            words = TextHelper.splitWords(l)
-            for w in words:
-                if w in wordCount.keys():
-                    wordCount[w] += 1
-                else:
-                    wordCount[w] = 1        
+        text = FileHelper.readFile(file)
+        _countWords(text, wordCount)
 
-    sortedWords = sorted(wordCount.items(), key=lambda x:x[1], reverse=True)
-    wordList = { sortedWords[i][0] : i + 1 for i in range(len(sortedWords))}    
+    wordList = _wordCountToDict(wordCount)
     
     return wordList
 
@@ -140,3 +166,4 @@ if __name__ == "__main__":
             print(makePretty(wordList))
     else:
         print("Не удалось сформировать список слов.")   
+

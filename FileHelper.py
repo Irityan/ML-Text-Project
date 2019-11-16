@@ -22,10 +22,18 @@ def readFile(filepath) -> str:
     except PermissionError:
         print("У вас нет доступа для записи этого файла.")
 
+def readFiles(flieList : list) -> list:
+    texts = []
+    for i in flieList:
+        texts.append(readFile(i))
+
+    return texts
+
 #По списку файлов и директорий возвращает список полных путей ко всем найденным файлам
-def getFilePaths(paths : list, extensions  : list =["txt"]) -> list:
+def getFilePaths(inputPaths : list, extensions  : list =["txt"]) -> list:
     fileList = []
-    
+    paths = inputPaths.copy()
+
     while len(paths) > 0:
         path = paths.pop()
         if os.path.isdir(path):
