@@ -2,11 +2,11 @@ from bs4 import BeautifulSoup
 import requests
 import re
 
-url = 'https://irecommend.ru/content/govoryu-kak-turagent-ne-vybiraite-pegas'
+url = 'https://irecommend.ru/content/ni-chem-nas-ne-obidel-dazhe-naoborot'
 #p1 полож
 #m1 отриц
 #zero нейтр
-tonality = "m1"
+tonality = "p1"
 
 timeTxt = ''
 
