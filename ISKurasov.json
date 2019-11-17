@@ -10,13 +10,13 @@
    },
 
    { 
-    "student_name": "Курасов Илья",
-    "student_group": 651,
-    "student_number": 16,
-    "date": "2019-07-22", 
-    "Data source": "https://irecommend.ru/content/doveryayu-svoi-otpusk-tolko-alokhe",
-    "tonality": "p1",
-    "filename": "p1//doveryayu-svoi-otpusk-tolko-alokhe.txt"
+		"student_name": "Курасов Илья",
+		"student_group": 651,
+		"student_number": 16,
+		"date": "2019-07-22", 
+		"Data source": "https://irecommend.ru/content/doveryayu-svoi-otpusk-tolko-alokhe",
+		"tonality": "p1",
+		"filename": "p1//doveryayu-svoi-otpusk-tolko-alokhe.txt"
     },
 
     { 
@@ -117,6 +117,2827 @@
         "Data source": "https://irecommend.ru/content/otdykh-isporchen-1",
         "tonality": "m1",
         "filename": "m1//otdykh-isporchen-1.txt"
-   }
+   },
    
+   { 
+        "student_name": "Курасов Илья",
+        "student_group": 651,
+        "student_number": 16,
+        "date": "2018-22-02", 
+        "Data source": "https://irecommend.ru/content/beregites-natali-turs",
+        "tonality": "m1",
+        "filename": "m1//beregites-natali-turs.txt"
+   },
+   
+   { 
+        "student_name": "Курасов Илья",
+        "student_group": 651,
+        "student_number": 16,
+        "date": "2017-09-04", 
+        "Data source": "https://irecommend.ru/content/bezotvetstvennost-i-obman",
+        "tonality": "m1",
+        "filename": "m1//bezotvetstvennost-i-obman.txt"
+   },
+   
+   { 
+        "student_name": "Курасов Илья",
+        "student_group": 651,
+        "student_number": 16,
+        "date": "2014-06-27", 
+        "Data source": "https://irecommend.ru/content/otvratitelnoe-khamskoe-otnoshenie",
+        "tonality": "m1",
+        "filename": "m1//otvratitelnoe-khamskoe-otnoshenie.txt"
+   },
+   
+   { 
+        "student_name": "Курасов Илья",
+        "student_group": 651,
+        "student_number": 16,
+        "date": "2014-06-27", 
+        "Data source": "https://irecommend.ru/content/ne-rekomenduyu-294",
+        "tonality": "m1",
+        "filename": "m1//ne-rekomenduyu-294.txt"
+   },
+   
+   { 
+        "student_name": "Курасов Илья",
+        "student_group": 651,
+        "student_number": 16,
+        "date": "2014-12-04", 
+        "Data source": "https://irecommend.ru/content/natali-turs-isporchennyi-otdykh-ili-razvedi-klienta-na-dengi",
+        "tonality": "m1",
+        "filename": "m1//natali-turs-isporchennyi-otdykh-ili-razvedi-klienta-na-dengi.txt"
+   },
+   
+   {
+	"student_name": "Курасов Илья",
+	"student_group": 651,
+	"student_number": 16,
+	"date": "2014-09-11",
+	"Data source": "https://irecommend.ru/content/turistov-derzhat-za-durakov",
+	"tonality": "m1",
+	"filename": "m1//turistov-derzhat-za-durakov.txt"
+},
+{
+	"student_name": "Курасов Илья",
+	"student_group": 651,
+	"student_number": 16,
+	"date": "2014-08-29",
+	"Data source": "https://irecommend.ru/content/podtverzhdenie-vyleta-za-18-chasov-do-otleta-vam-takoe-podkhodit",
+	"tonality": "m1",
+	"filename": "m1//podtverzhdenie-vyleta-za-18-chasov-do-otleta-vam-takoe-podkhodit.txt"
+},
+{
+"student_name": "Курасов Илья",
+"student_group": 651,
+"student_number": 16,
+"date": "2017-12-20",
+"Data source": "https://irecommend.ru/content/spasibo-chto-vovremya-prishli",
+"tonality": "m1",
+"filename": "m1//spasibo-chto-vovremya-prishli.txt"
+},
+{
+"student_name": "Курасов Илья",
+"student_group": 651,
+"student_number": 16,
+"date": "2016-09-17",
+"Data source": "https://irecommend.ru/content/uzhasnye-avtobusy-bolno-sidet",
+"tonality": "m1",
+"filename": "m1//uzhasnye-avtobusy-bolno-sidet.txt"
+},
+{
+"student_name": "Курасов Илья",
+"student_group": 651,
+"student_number": 16,
+"date": "2015-07-02",
+"Data source": "https://irecommend.ru/content/otvratnaya-kontora",
+"tonality": "m1",
+"filename": "m1//otvratnaya-kontora.txt"
+},
+{
+"student_name": "Курасов Илья",
+"student_group": 651,
+"student_number": 16,
+"date": "2016-02-21",
+"Data source": "https://irecommend.ru/content/koshmar-455",
+"tonality": "m1",
+"filename": "m1//koshmar-455.txt"
+},
+{
+"student_name": "Курасов Илья",
+"student_group": 651,
+"student_number": 16,
+"date": "2017-10-30",
+"Data source": "https://irecommend.ru/content/moshenniki-261",
+"tonality": "m1",
+"filename": "m1//moshenniki-261.txt"
+},
+{
+"student_name": "Курасов Илья",
+"student_group": 651,
+"student_number": 16,
+"date": "2014-02-05",
+"Data source": "https://irecommend.ru/content/v-italiyu-s-natali-turs",
+"tonality": "m1",
+"filename": "m1//v-italiyu-s-natali-turs.txt"
+},
+{
+"student_name": "Курасов Илья",
+"student_group": 651,
+"student_number": 16,
+"date": "2016-02-23",
+"Data source": "https://irecommend.ru/content/bezotvetstvennost-naglost-kidalovo",
+"tonality": "m1",
+"filename": "m1//bezotvetstvennost-naglost-kidalovo.txt"
+},
+{
+"student_name": "Курасов Илья",
+"student_group": 651,
+"student_number": 16,
+"date": "2014-03-22",
+"Data source": "https://irecommend.ru/content/pervyi-i-poslednii-opyt-obshcheniya-s-dannym-turoperatorom",
+"tonality": "m1",
+"filename": "m1//pervyi-i-poslednii-opyt-obshcheniya-s-dannym-turoperatorom.txt"
+},
+{
+"student_name": "Курасов Илья",
+"student_group": 651,
+"student_number": 16,
+"date": "2018-07-19",
+"Data source": "https://irecommend.ru/content/nikogda-ne-pokupaite-tury",
+"tonality": "m1",
+"filename": "m1//nikogda-ne-pokupaite-tury.txt"
+},
+{
+"student_name": "Курасов Илья",
+"student_group": 651,
+"student_number": 16,
+"date": "2015-04-21",
+"Data source": "https://irecommend.ru/node/2268781",
+"tonality": "p1",
+"filename": "p1//2268781.txt"
+},
+{
+"student_name": "Курасов Илья",
+"student_group": 651,
+"student_number": 16,
+"date": "2017-01-28",
+"Data source": "https://irecommend.ru/content/natalie-tours-dlya-menya-luchshii-turoperator",
+"tonality": "p1",
+"filename": "p1//natalie-tours-dlya-menya-luchshii-turoperator.txt"
+},
+{
+"student_name": "Курасов Илья",
+"student_group": 651,
+"student_number": 16,
+"date": "2018-06-29",
+"Data source": "https://irecommend.ru/content/uzhas-2255",
+"tonality": "m1",
+"filename": "m1//uzhas-2255.txt"
+},
+{
+"student_name": "Курасов Илья",
+"student_group": 651,
+"student_number": 16,
+"date": "2013-08-28",
+"Data source": "https://irecommend.ru/content/zarabotali-sebe-svoego-klienta-za-stolko-let-i-rasslabilis-vidimo",
+"tonality": "zero",
+"filename": "zero//zarabotali-sebe-svoego-klienta-za-stolko-let-i-rasslabilis-vidimo.txt"
+},
+{
+"student_name": "Курасов Илья",
+"student_group": 651,
+"student_number": 16,
+"date": "2015-09-24",
+"Data source": "https://irecommend.ru/content/uzhas-pered-otpuskom",
+"tonality": "m1",
+"filename": "m1//uzhas-pered-otpuskom.txt"
+},
+{
+"student_name": "Курасов Илья",
+"student_group": 651,
+"student_number": 16,
+"date": "2014-06-05",
+"Data source": "https://irecommend.ru/content/prosto-isportili-otdykh",
+"tonality": "m1",
+"filename": "m1//prosto-isportili-otdykh.txt"
+},
+{
+"student_name": "Курасов Илья",
+"student_group": 651,
+"student_number": 16,
+"date": "2014-07-29",
+"Data source": "https://irecommend.ru/content/obman-natali-turs",
+"tonality": "m1",
+"filename": "m1//obman-natali-turs.txt"
+},
+
+{
+"student_name": "Курасов Илья",
+"student_group": 651,
+"student_number": 16,
+"date": "2017-07-31",
+"Data source": "https://irecommend.ru/content/obman-za-vashi-dengi",
+"tonality": "m1",
+"filename": "m1//obman-za-vashi-dengi.txt"
+},
+{
+"student_name": "Курасов Илья",
+"student_group": 651,
+"student_number": 16,
+"date": "2015-02-26",
+"Data source": "https://irecommend.ru/content/gruboe-nevypolnenie-uslovii-dogovora",
+"tonality": "m1",
+"filename": "m1//gruboe-nevypolnenie-uslovii-dogovora.txt"
+},
+
+{
+"student_name": "Курасов Илья",
+"student_group": 651,
+"student_number": 16,
+"date": "2017-07-30",
+"Data source": "https://irecommend.ru/content/tolko-ne-natalishka",
+"tonality": "m1",
+"filename": "m1//tolko-ne-natalishka.txt"
+},
+{
+"student_name": "Курасов Илья",
+"student_group": 651,
+"student_number": 16,
+"date": "2017-08-18",
+"Data source": "https://irecommend.ru/content/nastoyatelno-ne-rekomenduyu-9",
+"tonality": "m1",
+"filename": "m1//nastoyatelno-ne-rekomenduyu-9.txt"
+},
+{
+"student_name": "Курасов Илья",
+"student_group": 651,
+"student_number": 16,
+"date": "2014-03-19",
+"Data source": "https://irecommend.ru/content/klassnyi-otdykh-v-ispanii",
+"tonality": "p1",
+"filename": "p1//klassnyi-otdykh-v-ispanii.txt"
+},
+{
+"student_name": "Курасов Илья",
+"student_group": 651,
+"student_number": 16,
+"date": "2015-10-02",
+"Data source": "https://irecommend.ru/content/vynuzhdayut-pokupat-garantiyu-reisa",
+"tonality": "m1",
+"filename": "m1//vynuzhdayut-pokupat-garantiyu-reisa.txt"
+},
+{
+"student_name": "Курасов Илья",
+"student_group": 651,
+"student_number": 16,
+"date": "2014-12-02",
+"Data source": "https://irecommend.ru/content/uznali-mnogo-novogo",
+"tonality": "p1",
+"filename": "p1//uznali-mnogo-novogo.txt"
+},
+{
+"student_name": "Курасов Илья",
+"student_group": 651,
+"student_number": 16,
+"date": "2017-09-19",
+"Data source": "https://irecommend.ru/content/turoperator-vypolnil-vse-svoi-obyazatelstva-i-obeshchaniya",
+"tonality": "p1",
+"filename": "p1//turoperator-vypolnil-vse-svoi-obyazatelstva-i-obeshchaniya.txt"
+},
+{
+"student_name": "Курасов Илья",
+"student_group": 651,
+"student_number": 16,
+"date": "2017-06-23",
+"Data source": "https://irecommend.ru/content/otlichnyi-operator-7",
+"tonality": "p1",
+"filename": "p1//otlichnyi-operator-7.txt"
+},
+{
+"student_name": "Курасов Илья",
+"student_group": 651,
+"student_number": 16,
+"date": "2013-12-23",
+"Data source": "https://irecommend.ru/content/chetkaya-organizatsiya-poezdki",
+"tonality": "p1",
+"filename": "p1//chetkaya-organizatsiya-poezdki.txt"
+},
+{
+"student_name": "Курасов Илья",
+"student_group": 651,
+"student_number": 16,
+"date": "2014-08-01",
+"Data source": "https://irecommend.ru/content/otlichnaya-turfirma-6",
+"tonality": "p1",
+"filename": "p1//otlichnaya-turfirma-6.txt"
+},
+{
+"student_name": "Курасов Илья",
+"student_group": 651,
+"student_number": 16,
+"date": "2018-01-08",
+"Data source": "https://irecommend.ru/content/ochen-plokhoi-turagent-1-iz-5",
+"tonality": "m1",
+"filename": "m1//ochen-plokhoi-turagent-1-iz-5.txt"
+},
+{
+"student_name": "Курасов Илья",
+"student_group": 651,
+"student_number": 16,
+"date": "2013-08-17",
+"Data source": "https://irecommend.ru/content/otvratitelnaya-organizatsiya-1",
+"tonality": "m1",
+"filename": "m1//otvratitelnaya-organizatsiya-1.txt"
+},
+{
+"student_name": "Курасов Илья",
+"student_group": 651,
+"student_number": 16,
+"date": "2019-04-02",
+"Data source": "https://irecommend.ru/content/ne-imeite-del-s-gidom-i-ne-pokupaite-ekskursii",
+"tonality": "m1",
+"filename": "m1//ne-imeite-del-s-gidom-i-ne-pokupaite-ekskursii.txt"
+},
+{
+"student_name": "Курасов Илья",
+"student_group": 651,
+"student_number": 16,
+"date": "2016-03-15",
+"Data source": "https://irecommend.ru/content/odni-otritsatelnye-emotsii-ot-ekskursii-s-odeonturs-v-oae",
+"tonality": "m1",
+"filename": "m1//odni-otritsatelnye-emotsii-ot-ekskursii-s-odeonturs-v-oae.txt"
+},
+{
+"student_name": "Курасов Илья",
+"student_group": 651,
+"student_number": 16,
+"date": "2019-08-20",
+"Data source": "https://irecommend.ru/content/uzhasnoe-otnoshenie-k-turistam-1",
+"tonality": "m1",
+"filename": "m1//uzhasnoe-otnoshenie-k-turistam-1.txt"
+},
+{
+"student_name": "Курасов Илья",
+"student_group": 651,
+"student_number": 16,
+"date": "2018-11-01",
+"Data source": "https://irecommend.ru/content/neplokho-no-navyazchivo",
+"tonality": "zero",
+"filename": "zero//neplokho-no-navyazchivo.txt"
+},
+{
+"student_name": "Курасов Илья",
+"student_group": 651,
+"student_number": 16,
+"date": "2016-03-25",
+"Data source": "https://irecommend.ru/content/otvratitelnyi-otelnyi-gid-ot-odeon-tours",
+"tonality": "m1",
+"filename": "m1//otvratitelnyi-otelnyi-gid-ot-odeon-tours.txt"
+},
+{
+"student_name": "Курасов Илья",
+"student_group": 651,
+"student_number": 16,
+"date": "2018-03-28",
+"Data source": "https://irecommend.ru/content/nenadezhnaya-kompaniya-1",
+"tonality": "m1",
+"filename": "m1//nenadezhnaya-kompaniya-1.txt"
+},
+{
+"student_name": "Курасов Илья",
+"student_group": 651,
+"student_number": 16,
+"date": "2017-09-29",
+"Data source": "https://irecommend.ru/content/bespoleznye-gidy",
+"tonality": "m1",
+"filename": "m1//bespoleznye-gidy.txt"
+},
+{
+"student_name": "Курасов Илья",
+"student_group": 651,
+"student_number": 16,
+"date": "2017-09-27",
+"Data source": "https://irecommend.ru/content/uzhasno-ne-rekomenduem-odeon-tours",
+"tonality": "m1",
+"filename": "m1//uzhasno-ne-rekomenduem-odeon-tours.txt"
+},
+{
+"student_name": "Курасов Илья",
+"student_group": 651,
+"student_number": 16,
+"date": "2014-06-12",
+"Data source": "https://irecommend.ru/content/v-printsipe-bez-pretenziino",
+"tonality": "zero",
+"filename": "zero//v-printsipe-bez-pretenziino.txt"
+},
+{
+"student_name": "Курасов Илья",
+"student_group": 651,
+"student_number": 16,
+"date": "2016-09-25",
+"Data source": "https://irecommend.ru/content/tur-v-barselonu",
+"tonality": "m1",
+"filename": "m1//tur-v-barselonu.txt"
+},
+{
+"student_name": "Курасов Илья",
+"student_group": 651,
+"student_number": 16,
+"date": "2015-08-16",
+"Data source": "https://irecommend.ru/content/uzhas-gidu-ne-mesto-na-etoi-rabote",
+"tonality": "m1",
+"filename": "m1//uzhas-gidu-ne-mesto-na-etoi-rabote.txt"
+},
+{
+"student_name": "Курасов Илья",
+"student_group": 651,
+"student_number": 16,
+"date": "2015-03-02",
+"Data source": "https://irecommend.ru/content/khoroshii-tur-operator-2",
+"tonality": "p1",
+"filename": "p1//khoroshii-tur-operator-2.txt"
+},
+{
+"student_name": "Курасов Илья",
+"student_group": 651,
+"student_number": 16,
+"date": "2017-08-28",
+"Data source": "https://irecommend.ru/content/otvratitelnyi-servis-neuvazhitelnoe-otnoshenie-k-klientu",
+"tonality": "m1",
+"filename": "m1//otvratitelnyi-servis-neuvazhitelnoe-otnoshenie-k-klientu.txt"
+},
+{
+"student_name": "Курасов Илья",
+"student_group": 651,
+"student_number": 16,
+"date": "2015-05-19",
+"Data source": "https://irecommend.ru/content/otlichno-2167",
+"tonality": "p1",
+"filename": "p1//otlichno-2167.txt"
+},
+
+{
+"student_name": "Курасов Илья",
+"student_group": 651,
+"student_number": 16,
+"date": "2017-08-24",
+"Data source": "https://irecommend.ru/content/vpervyi-i-v-poslednii-raz-sunmar",
+"tonality": "m1",
+"filename": "m1//vpervyi-i-v-poslednii-raz-sunmar.txt"
+},
+{
+"student_name": "Курасов Илья",
+"student_group": 651,
+"student_number": 16,
+"date": "2019-05-23",
+"Data source": "https://irecommend.ru/content/ne-stoit-svyazyvatsya-s-etoi-kompaniei",
+"tonality": "m1",
+"filename": "m1//ne-stoit-svyazyvatsya-s-etoi-kompaniei.txt"
+},
+{
+"student_name": "Курасов Илья",
+"student_group": 651,
+"student_number": 16,
+"date": "2015-04-02",
+"Data source": "https://irecommend.ru/content/podarok-roditelyam-ne-udalsya",
+"tonality": "m1",
+"filename": "m1//podarok-roditelyam-ne-udalsya.txt"
+},
+{
+"student_name": "Курасов Илья",
+"student_group": 651,
+"student_number": 16,
+"date": "2018-07-14",
+"Data source": "https://irecommend.ru/content/otvratitelno-1283",
+"tonality": "m1",
+"filename": "m1//otvratitelno-1283.txt"
+},
+{
+"student_name": "Курасов Илья",
+"student_group": 651,
+"student_number": 16,
+"date": "2019-06-20",
+"Data source": "https://irecommend.ru/content/obman-i-naplevatelskoe-nagloe-otnoshenie-k-turistam",
+"tonality": "m1",
+"filename": "m1//obman-i-naplevatelskoe-nagloe-otnoshenie-k-turistam.txt"
+},
+{
+"student_name": "Курасов Илья",
+"student_group": 651,
+"student_number": 16,
+"date": "2017-06-03",
+"Data source": "https://irecommend.ru/content/glavnoe-poluchit-s-vas-dengi",
+"tonality": "m1",
+"filename": "m1//glavnoe-poluchit-s-vas-dengi.txt"
+},
+{
+"student_name": "Курасов Илья",
+"student_group": 651,
+"student_number": 16,
+"date": "2018-07-02",
+"Data source": "https://irecommend.ru/content/otvratitelnaya-firma-7",
+"tonality": "m1",
+"filename": "m1//otvratitelnaya-firma-7.txt"
+},
+{
+"student_name": "Курасов Илья",
+"student_group": 651,
+"student_number": 16,
+"date": "2013-11-26",
+"Data source": "https://irecommend.ru/content/s-nimi-bolshe-nikogda-i-nikuda",
+"tonality": "m1",
+"filename": "m1//s-nimi-bolshe-nikogda-i-nikuda.txt"
+},
+{
+"student_name": "Курасов Илья",
+"student_group": 651,
+"student_number": 16,
+"date": "2019-09-10",
+"Data source": "https://irecommend.ru/content/plokho-916",
+"tonality": "m1",
+"filename": "m1//plokho-916.txt"
+},
+{
+"student_name": "Курасов Илья",
+"student_group": 651,
+"student_number": 16,
+"date": "2017-11-14",
+"Data source": "https://irecommend.ru/content/otlichnyi-turoperator-10",
+"tonality": "p1",
+"filename": "p1//otlichnyi-turoperator-10.txt"
+},
+{
+"student_name": "Курасов Илья",
+"student_group": 651,
+"student_number": 16,
+"date": "2015-06-21",
+"Data source": "https://irecommend.ru/content/otvratitelnaya-vstrecha",
+"tonality": "m1",
+"filename": "m1//otvratitelnaya-vstrecha.txt"
+},
+{
+"student_name": "Курасов Илья",
+"student_group": 651,
+"student_number": 16,
+"date": "2019-08-26",
+"Data source": "https://irecommend.ru/content/ne-rekomenduyu-1275",
+"tonality": "m1",
+"filename": "m1//ne-rekomenduyu-1275.txt"
+},
+{
+"student_name": "Курасов Илья",
+"student_group": 651,
+"student_number": 16,
+"date": "2016-11-30",
+"Data source": "https://irecommend.ru/content/bezotvetstvennost-turoperatora-sunmar",
+"tonality": "m1",
+"filename": "m1//bezotvetstvennost-turoperatora-sunmar.txt"
+},
+{
+"student_name": "Курасов Илья",
+"student_group": 651,
+"student_number": 16,
+"date": "2018-03-27",
+"Data source": "https://irecommend.ru/content/sunmar-prosto-uzhas",
+"tonality": "m1",
+"filename": "m1//sunmar-prosto-uzhas.txt"
+},
+
+{
+"student_name": "Курасов Илья",
+"student_group": 651,
+"student_number": 16,
+"date": "2019-09-12",
+"Data source": "https://irecommend.ru/content/tolko-polozhitelnye-vpechatleniya-kak-ot-otdykha-tak-i-ot-raboty-kompanii",
+"tonality": "p1",
+"filename": "p1//tolko-polozhitelnye-vpechatleniya-kak-ot-otdykha-tak-i-ot-raboty-kompanii.txt"
+},
+
+{
+"student_name": "Курасов Илья",
+"student_group": 651,
+"student_number": 16,
+"date": "2015-08-16",
+"Data source": "https://irecommend.ru/content/otdykh-v-turtsii-s-sunmar-v-tselom-udalsya",
+"tonality": "p1",
+"filename": "p1//otdykh-v-turtsii-s-sunmar-v-tselom-udalsya.txt"
+},
+{
+"student_name": "Курасов Илья",
+"student_group": 651,
+"student_number": 16,
+"date": "2014-08-23",
+"Data source": "https://irecommend.ru/content/turoperator-sunmar-eto-khot-i-pervyi-raz-no-ne-komom",
+"tonality": "p1",
+"filename": "p1//turoperator-sunmar-eto-khot-i-pervyi-raz-no-ne-komom.txt"
+},
+{
+"student_name": "Курасов Илья",
+"student_group": 651,
+"student_number": 16,
+"date": "2019-11-04",
+"Data source": "https://irecommend.ru/content/otdykh-isporchen-obman",
+"tonality": "m1",
+"filename": "m1//otdykh-isporchen-obman.txt"
+},
+{
+"student_name": "Курасов Илья",
+"student_group": 651,
+"student_number": 16,
+"date": "2019-08-11",
+"Data source": "https://irecommend.ru/content/ofis-po-adresu-gmokva-osennii-bul-18-korp-1",
+"tonality": "p1",
+"filename": "p1//ofis-po-adresu-gmokva-osennii-bul-18-korp-1.txt"
+},
+{
+"student_name": "Курасов Илья",
+"student_group": 651,
+"student_number": 16,
+"date": "2018-09-09",
+"Data source": "https://irecommend.ru/content/spasibo-za-prekrasnye-maiskie",
+"tonality": "p1",
+"filename": "p1//spasibo-za-prekrasnye-maiskie.txt"
+},
+{
+"student_name": "Курасов Илья",
+"student_group": 651,
+"student_number": 16,
+"date": "2018-06-07",
+"Data source": "https://irecommend.ru/content/obman-turistov-perenosyat-reisy",
+"tonality": "m1",
+"filename": "m1//obman-turistov-perenosyat-reisy.txt"
+},
+{
+"student_name": "Курасов Илья",
+"student_group": 651,
+"student_number": 16,
+"date": "2019-10-14",
+"Data source": "https://irecommend.ru/content/puteshestvuem-tolko-s-sanmar",
+"tonality": "p1",
+"filename": "p1//puteshestvuem-tolko-s-sanmar.txt"
+},
+{
+"student_name": "Курасов Илья",
+"student_group": 651,
+"student_number": 16,
+"date": "2018-09-08",
+"Data source": "https://irecommend.ru/content/otvratitelnoe-20",
+"tonality": "m1",
+"filename": "m1//otvratitelnoe-20.txt"
+},
+{
+"student_name": "Курасов Илья",
+"student_group": 651,
+"student_number": 16,
+"date": "2019-02-18",
+"Data source": "https://irecommend.ru/content/spasibo-za-otlichnoe-bystroe-obsluzhivanie-i-optimalnye-tseny",
+"tonality": "p1",
+"filename": "p1//spasibo-za-otlichnoe-bystroe-obsluzhivanie-i-optimalnye-tseny.txt"
+},
+{
+"student_name": "Курасов Илья",
+"student_group": 651,
+"student_number": 16,
+"date": "2019-08-06",
+"Data source": "https://irecommend.ru/content/otdykh-udalsya-35",
+"tonality": "p1",
+"filename": "p1//otdykh-udalsya-35.txt"
+},
+{
+"student_name": "Курасов Илья",
+"student_group": 651,
+"student_number": 16,
+"date": "2015-09-18",
+"Data source": "https://irecommend.ru/content/problemnyi-turoperator",
+"tonality": "m1",
+"filename": "m1//problemnyi-turoperator.txt"
+},
+{
+"student_name": "Курасов Илья",
+"student_group": 651,
+"student_number": 16,
+"date": "2016-08-16",
+"Data source": "https://irecommend.ru/content/sorvannyi-otpusk-0",
+"tonality": "m1",
+"filename": "m1//sorvannyi-otpusk-0.txt"
+},
+{
+"student_name": "Курасов Илья",
+"student_group": 651,
+"student_number": 16,
+"date": "2018-06-08",
+"Data source": "https://irecommend.ru/content/polnyi-bespredel-3",
+"tonality": "m1",
+"filename": "m1//polnyi-bespredel-3.txt"
+},
+{
+"student_name": "Курасов Илья",
+"student_group": 651,
+"student_number": 16,
+"date": "2015-06-07",
+"Data source": "https://irecommend.ru/content/nikto-ne-verit-chto-tury-mogut-stoit-kopeiki",
+"tonality": "p1",
+"filename": "p1//nikto-ne-verit-chto-tury-mogut-stoit-kopeiki.txt"
+},
+{
+"student_name": "Курасов Илья",
+"student_group": 651,
+"student_number": 16,
+"date": "2015-06-13",
+"Data source": "https://irecommend.ru/content/bystro-udobno-mnogoobrazno",
+"tonality": "p1",
+"filename": "p1//bystro-udobno-mnogoobrazno.txt"
+},
+{
+"student_name": "Курасов Илья",
+"student_group": 651,
+"student_number": 16,
+"date": "2015-06-23",
+"Data source": "https://irecommend.ru/content/zamechatelno-286",
+"tonality": "p1",
+"filename": "p1//zamechatelno-286.txt"
+},
+{
+"student_name": "Курасов Илья",
+"student_group": 651,
+"student_number": 16,
+"date": "2018-06-26",
+"Data source": "https://irecommend.ru/content/nikogda-bolshe-nikuda-ne-poedem-s-akkordom",
+"tonality": "m1",
+"filename": "m1//nikogda-bolshe-nikuda-ne-poedem-s-akkordom.txt"
+},
+{
+"student_name": "Курасов Илья",
+"student_group": 651,
+"student_number": 16,
+"date": "2017-08-02",
+"Data source": "https://irecommend.ru/content/tolko-plokhie-vospominaniya",
+"tonality": "m1",
+"filename": "m1//tolko-plokhie-vospominaniya.txt"
+},
+{
+"student_name": "Курасов Илья",
+"student_group": 651,
+"student_number": 16,
+"date": "2016-10-17",
+"Data source": "https://irecommend.ru/content/tri-poezdki-za-tri-goda-blagodarya-akkordu",
+"tonality": "p1",
+"filename": "p1//tri-poezdki-za-tri-goda-blagodarya-akkordu.txt"
+},
+{
+"student_name": "Курасов Илья",
+"student_group": 651,
+"student_number": 16,
+"date": "2017-11-27",
+"Data source": "https://irecommend.ru/content/ne-rekomenduyu-858",
+"tonality": "m1",
+"filename": "m1//ne-rekomenduyu-858.txt"
+},
+{
+"student_name": "Курасов Илья",
+"student_group": 651,
+"student_number": 16,
+"date": "2019-07-18",
+"Data source": "https://irecommend.ru/content/moshenniki-prodayut-bilety-na-nesushchestvuyushchie-reisy",
+"tonality": "m1",
+"filename": "m1//moshenniki-prodayut-bilety-na-nesushchestvuyushchie-reisy.txt"
+},
+{
+"student_name": "Курасов Илья",
+"student_group": 651,
+"student_number": 16,
+"date": "2019-08-23",
+"Data source": "https://irecommend.ru/content/ozadachivaet-sploshnoi-negativ-u-menya-byl-normalnyi-opyt-pokupki-biletov",
+"tonality": "p1",
+"filename": "p1//ozadachivaet-sploshnoi-negativ-u-menya-byl-normalnyi-opyt-pokupki-biletov.txt"
+},
+{
+"student_name": "Курасов Илья",
+"student_group": 651,
+"student_number": 16,
+"date": "2019-08-08",
+"Data source": "https://irecommend.ru/content/sharaga-prodayut-nesushchestvuyushchie-bilety",
+"tonality": "m1",
+"filename": "m1//sharaga-prodayut-nesushchestvuyushchie-bilety.txt"
+},
+{
+"student_name": "Курасов Илья",
+"student_group": 651,
+"student_number": 16,
+"date": "2018-02-26",
+"Data source": "https://irecommend.ru/content/plokho-687",
+"tonality": "m1",
+"filename": "m1//plokho-687.txt"
+},
+{
+"student_name": "Курасов Илья",
+"student_group": 651,
+"student_number": 16,
+"date": "2017-05-18",
+"Data source": "https://irecommend.ru/content/chistoi-vody-moshenniki",
+"tonality": "m1",
+"filename": "m1//chistoi-vody-moshenniki.txt"
+},
+{
+"student_name": "Курасов Илья",
+"student_group": 651,
+"student_number": 16,
+"date": "2018-11-01",
+"Data source": "https://irecommend.ru/content/bezotvetstvennaya-sharazhka",
+"tonality": "m1",
+"filename": "m1//bezotvetstvennaya-sharazhka.txt"
+},
+{
+"student_name": "Курасов Илья",
+"student_group": 651,
+"student_number": 16,
+"date": "2017-06-28",
+"Data source": "https://irecommend.ru/content/sititrevel-moshenniki",
+"tonality": "m1",
+"filename": "m1//sititrevel-moshenniki.txt"
+},
+{
+"student_name": "Курасов Илья",
+"student_group": 651,
+"student_number": 16,
+"date": "2018-01-10",
+"Data source": "https://irecommend.ru/content/rekomenduyu-1923",
+"tonality": "p1",
+"filename": "p1//rekomenduyu-1923.txt"
+},
+{
+"student_name": "Курасов Илья",
+"student_group": 651,
+"student_number": 16,
+"date": "2019-03-04",
+"Data source": "https://irecommend.ru/content/uzhasno-ne-obrashchaites",
+"tonality": "m1",
+"filename": "m1//uzhasno-ne-obrashchaites.txt"
+},
+{
+"student_name": "Курасов Илья",
+"student_group": 651,
+"student_number": 16,
+"date": "2019-02-22",
+"Data source": "https://irecommend.ru/content/normalnyi-servis-po-bronirovaniyu-aviabiletov-brali-2i-raz",
+"tonality": "p1",
+"filename": "p1//normalnyi-servis-po-bronirovaniyu-aviabiletov-brali-2i-raz.txt"
+},
+{
+"student_name": "Курасов Илья",
+"student_group": 651,
+"student_number": 16,
+"date": "2018-11-16",
+"Data source": "https://irecommend.ru/content/moshenniki-354",
+"tonality": "m1",
+"filename": "m1//moshenniki-354.txt"
+},
+{
+"student_name": "Курасов Илья",
+"student_group": 651,
+"student_number": 16,
+"date": "2019-03-08",
+"Data source": "https://irecommend.ru/content/udobnyi-servis-32",
+"tonality": "p1",
+"filename": "p1//udobnyi-servis-32.txt"
+},
+{
+"student_name": "Курасов Илья",
+"student_group": 651,
+"student_number": 16,
+"date": "2019-08-16",
+"Data source": "https://irecommend.ru/content/citytravel-moshenniki-i-kidalshchiki",
+"tonality": "m1",
+"filename": "m1//citytravel-moshenniki-i-kidalshchiki.txt"
+},
+{
+"student_name": "Курасов Илья",
+"student_group": 651,
+"student_number": 16,
+"date": "2019-11-06",
+"Data source": "https://irecommend.ru/content/v-shoke-ot-plokhikh-otzyvov-1",
+"tonality": "p1",
+"filename": "p1//v-shoke-ot-plokhikh-otzyvov-1.txt"
+},
+{
+"student_name": "Курасов Илья",
+"student_group": 651,
+"student_number": 16,
+"date": "2018-01-19",
+"Data source": "https://irecommend.ru/content/prosto-slov-net-1",
+"tonality": "m1",
+"filename": "m1//prosto-slov-net-1.txt"
+},
+{
+"student_name": "Курасов Илья",
+"student_group": 651,
+"student_number": 16,
+"date": "2019-03-08",
+"Data source": "https://irecommend.ru/content/normalno-bez-narushenii",
+"tonality": "p1",
+"filename": "p1//normalno-bez-narushenii.txt"
+},
+{
+"student_name": "Курасов Илья",
+"student_group": 651,
+"student_number": 16,
+"date": "2018-05-29",
+"Data source": "https://irecommend.ru/content/ne-rekomenduyu-974",
+"tonality": "m1",
+"filename": "m1//ne-rekomenduyu-974.txt"
+},
+{
+"student_name": "Курасов Илья",
+"student_group": 651,
+"student_number": 16,
+"date": "2018-05-22",
+"Data source": "https://irecommend.ru/content/veroyatno-moshenniki",
+"tonality": "m1",
+"filename": "m1//veroyatno-moshenniki.txt"
+},
+{
+"student_name": "Курасов Илья",
+"student_group": 651,
+"student_number": 16,
+"date": "2019-04-01",
+"Data source": "https://irecommend.ru/content/pervyi-pozitivnyi-opyt",
+"tonality": "p1",
+"filename": "p1//pervyi-pozitivnyi-opyt.txt"
+},
+{
+"student_name": "Курасов Илья",
+"student_group": 651,
+"student_number": 16,
+"date": "2019-08-13",
+"Data source": "https://irecommend.ru/content/citytravel-otvetstvennaya-i-nadezhnaya-kompaniya",
+"tonality": "p1",
+"filename": "p1//citytravel-otvetstvennaya-i-nadezhnaya-kompaniya.txt"
+},
+{
+"student_name": "Курасов Илья",
+"student_group": 651,
+"student_number": 16,
+"date": "2019-03-06",
+"Data source": "https://irecommend.ru/content/obespechili-khoroshii-otdykh",
+"tonality": "p1",
+"filename": "p1//obespechili-khoroshii-otdykh.txt"
+},
+{
+"student_name": "Курасов Илья",
+"student_group": 651,
+"student_number": 16,
+"date": "2019-07-20",
+"Data source": "https://irecommend.ru/content/vse-ponravilos-123",
+"tonality": "p1",
+"filename": "p1//vse-ponravilos-123.txt"
+},
+{
+"student_name": "Курасов Илья",
+"student_group": 651,
+"student_number": 16,
+"date": "2019-02-28",
+"Data source": "https://irecommend.ru/content/otlichnyi-servis-dlya-planirovaniya-puteshestvii",
+"tonality": "p1",
+"filename": "p1//otlichnyi-servis-dlya-planirovaniya-puteshestvii.txt"
+},
+{
+"student_name": "Курасов Илья",
+"student_group": 651,
+"student_number": 16,
+"date": "2018-08-13",
+"Data source": "https://irecommend.ru/content/nikogda-ne-polzuites-5",
+"tonality": "m1",
+"filename": "m1//nikogda-ne-polzuites-5.txt"
+},
+{
+"student_name": "Курасов Илья",
+"student_group": 651,
+"student_number": 16,
+"date": "2019-09-19",
+"Data source": "https://irecommend.ru/content/prosto-i-udobno-63",
+"tonality": "p1",
+"filename": "p1//prosto-i-udobno-63.txt"
+},
+{
+"student_name": "Курасов Илья",
+"student_group": 651,
+"student_number": 16,
+"date": "2019-10-08",
+"Data source": "https://irecommend.ru/content/normalnoe-agenstvo",
+"tonality": "zero",
+"filename": "zero//normalnoe-agenstvo.txt"
+},
+{
+"student_name": "Курасов Илья",
+"student_group": 651,
+"student_number": 16,
+"date": "2017-01-10",
+"Data source": "https://irecommend.ru/content/u-menya-vse-proshlo-na-5-ballov",
+"tonality": "p1",
+"filename": "p1//u-menya-vse-proshlo-na-5-ballov.txt"
+},
+{
+"student_name": "Курасов Илья",
+"student_group": 651,
+"student_number": 16,
+"date": "2019-01-28",
+"Data source": "https://irecommend.ru/content/prostoi-i-udobnyi-servis",
+"tonality": "p1",
+"filename": "p1//prostoi-i-udobnyi-servis.txt"
+},
+{
+"student_name": "Курасов Илья",
+"student_group": 651,
+"student_number": 16,
+"date": "2017-10-05",
+"Data source": "https://irecommend.ru/content/ochen-plokho-181",
+"tonality": "m1",
+"filename": "m1//ochen-plokho-181.txt"
+},
+{
+"student_name": "Курасов Илья",
+"student_group": 651,
+"student_number": 16,
+"date": "2018-09-26",
+"Data source": "https://irecommend.ru/content/isklyuchitelno-bezotvetstvennye-lyudi",
+"tonality": "m1",
+"filename": "m1//isklyuchitelno-bezotvetstvennye-lyudi.txt"
+},
+{
+"student_name": "Курасов Илья",
+"student_group": 651,
+"student_number": 16,
+"date": "2019-11-02",
+"Data source": "https://irecommend.ru/content/otvratitelno-1821",
+"tonality": "m1",
+"filename": "m1//otvratitelno-1821.txt"
+},
+{
+"student_name": "Курасов Илья",
+"student_group": 651,
+"student_number": 16,
+"date": "2018-07-24",
+"Data source": "https://irecommend.ru/content/ne-svyazyvaites-s-etoi-kontoroi-3",
+"tonality": "m1",
+"filename": "m1//ne-svyazyvaites-s-etoi-kontoroi-3.txt"
+},
+{
+"student_name": "Курасов Илья",
+"student_group": 651,
+"student_number": 16,
+"date": "2019-07-18",
+"Data source": "https://irecommend.ru/content/khoroshii-servis-bystro-kachestvenno-byudzhetno",
+"tonality": "p1",
+"filename": "p1//khoroshii-servis-bystro-kachestvenno-byudzhetno.txt"
+},
+{
+"student_name": "Курасов Илья",
+"student_group": 651,
+"student_number": 16,
+"date": "2019-05-05",
+"Data source": "https://irecommend.ru/content/otlichno-3641",
+"tonality": "p1",
+"filename": "p1//otlichno-3641.txt"
+},
+{
+"student_name": "Курасов Илья",
+"student_group": 651,
+"student_number": 16,
+"date": "2016-12-09",
+"Data source": "https://irecommend.ru/content/ne-sovetuyu-897",
+"tonality": "m1",
+"filename": "m1//ne-sovetuyu-897.txt"
+},
+{
+"student_name": "Курасов Илья",
+"student_group": 651,
+"student_number": 16,
+"date": "2019-10-07",
+"Data source": "https://irecommend.ru/content/moshenniki-472",
+"tonality": "m1",
+"filename": "m1//moshenniki-472.txt"
+},
+{
+"student_name": "Курасов Илья",
+"student_group": 651,
+"student_number": 16,
+"date": "2019-01-25",
+"Data source": "https://irecommend.ru/content/otlichnyi-sposob-sekonomit-vremya-i-dengi-pri-pokupke-biletov",
+"tonality": "p1",
+"filename": "p1//otlichnyi-sposob-sekonomit-vremya-i-dengi-pri-pokupke-biletov.txt"
+},
+
+{
+"student_name": "Курасов Илья",
+"student_group": 651,
+"student_number": 16,
+"date": "2017-11-08",
+"Data source": "https://irecommend.ru/content/ne-polzuites-uslugami-etogo-saita",
+"tonality": "m1",
+"filename": "m1//ne-polzuites-uslugami-etogo-saita.txt"
+},
+{
+"student_name": "Курасов Илья",
+"student_group": 651,
+"student_number": 16,
+"date": "2017-12-06",
+"Data source": "https://irecommend.ru/content/obkhodite-storonoi-80",
+"tonality": "m1",
+"filename": "m1//obkhodite-storonoi-80.txt"
+},
+{
+"student_name": "Курасов Илья",
+"student_group": 651,
+"student_number": 16,
+"date": "2017-04-10",
+"Data source": "https://irecommend.ru/content/otvratitelnyi-servis-ne-rekomenduyu",
+"tonality": "m1",
+"filename": "m1//otvratitelnyi-servis-ne-rekomenduyu.txt"
+},
+{
+"student_name": "Курасов Илья",
+"student_group": 651,
+"student_number": 16,
+"date": "2019-01-27",
+"Data source": "https://irecommend.ru/content/udobno-zakazyvat-vse-v-odnom-meste",
+"tonality": "p1",
+"filename": "p1//udobno-zakazyvat-vse-v-odnom-meste.txt"
+},
+{
+"student_name": "Курасов Илья",
+"student_group": 651,
+"student_number": 16,
+"date": "2019-08-26",
+"Data source": "https://irecommend.ru/content/servis-citytravel-ne-podvel",
+"tonality": "p1",
+"filename": "p1//servis-citytravel-ne-podvel.txt"
+},
+{
+"student_name": "Курасов Илья",
+"student_group": 651,
+"student_number": 16,
+"date": "2019-07-09",
+"Data source": "https://irecommend.ru/content/khoroshii-servis-90",
+"tonality": "p1",
+"filename": "p1//khoroshii-servis-90.txt"
+},
+{
+"student_name": "Курасов Илья",
+"student_group": 651,
+"student_number": 16,
+"date": "2017-08-29",
+"Data source": "https://irecommend.ru/content/otlichnyi-servis-109",
+"tonality": "p1",
+"filename": "p1//otlichnyi-servis-109.txt"
+},
+{
+"student_name": "Курасов Илья",
+"student_group": 651,
+"student_number": 16,
+"date": "2017-08-14",
+"Data source": "https://irecommend.ru/content/samyi-khudshii-iz-vsekh-servisov-bronirovaniya",
+"tonality": "m1",
+"filename": "m1//samyi-khudshii-iz-vsekh-servisov-bronirovaniya.txt"
+},
+{
+"student_name": "Курасов Илья",
+"student_group": 651,
+"student_number": 16,
+"date": "2018-01-17",
+"Data source": "https://irecommend.ru/content/sititrevel-moshenniki-0",
+"tonality": "m1",
+"filename": "m1//sititrevel-moshenniki-0.txt"
+},
+{
+"student_name": "Курасов Илья",
+"student_group": 651,
+"student_number": 16,
+"date": "2019-09-20",
+"Data source": "https://irecommend.ru/content/kidaly-kotorye-ni-za-chto-ne-otvechayut",
+"tonality": "m1",
+"filename": "m1//kidaly-kotorye-ni-za-chto-ne-otvechayut.txt"
+},
+{
+"student_name": "Курасов Илья",
+"student_group": 651,
+"student_number": 16,
+"date": "2019-10-22",
+"Data source": "https://irecommend.ru/content/ostorozhno-moshenniki-89",
+"tonality": "m1",
+"filename": "m1//ostorozhno-moshenniki-89.txt"
+},
+{
+"student_name": "Курасов Илья",
+"student_group": 651,
+"student_number": 16,
+"date": "2019-07-20",
+"Data source": "https://irecommend.ru/content/udobnyi-servis-dlya-puteshestvennikov",
+"tonality": "p1",
+"filename": "p1//udobnyi-servis-dlya-puteshestvennikov.txt"
+},
+{
+"student_name": "Курасов Илья",
+"student_group": 651,
+"student_number": 16,
+"date": "2019-08-20",
+"Data source": "https://irecommend.ru/content/mn-udobno-polzovatsya-dannym-servisom",
+"tonality": "p1",
+"filename": "p1//mn-udobno-polzovatsya-dannym-servisom.txt"
+},
+{
+"student_name": "Курасов Илья",
+"student_group": 651,
+"student_number": 16,
+"date": "2019-09-11",
+"Data source": "https://irecommend.ru/content/zakazyval-zdes-bilety-v-tbilisi",
+"tonality": "zero",
+"filename": "zero//zakazyval-zdes-bilety-v-tbilisi.txt"
+},
+{
+"student_name": "Курасов Илья",
+"student_group": 651,
+"student_number": 16,
+"date": "2019-09-13",
+"Data source": "https://irecommend.ru/content/khoroshii-servis-97",
+"tonality": "p1",
+"filename": "p1//khoroshii-servis-97.txt"
+},
+{
+"student_name": "Курасов Илья",
+"student_group": 651,
+"student_number": 16,
+"date": "2019-10-23",
+"Data source": "https://irecommend.ru/content/otvratitelno-polomannye-plany-i-poterya-deneg",
+"tonality": "m1",
+"filename": "m1//otvratitelno-polomannye-plany-i-poterya-deneg.txt"
+},
+{
+"student_name": "Курасов Илья",
+"student_group": 651,
+"student_number": 16,
+"date": "2018-01-17",
+"Data source": "https://irecommend.ru/content/deshevo-no-vpechatlenie-isportite",
+"tonality": "zero",
+"filename": "zero//deshevo-no-vpechatlenie-isportite.txt"
+},
+{
+"student_name": "Курасов Илья",
+"student_group": 651,
+"student_number": 16,
+"date": "2018-02-11",
+"Data source": "https://irecommend.ru/content/similany-0",
+"tonality": "m1",
+"filename": "m1//similany-0.txt"
+},
+{
+"student_name": "Курасов Илья",
+"student_group": 651,
+"student_number": 16,
+"date": "2015-04-27",
+"Data source": "https://irecommend.ru/content/samyi-plokhoi-servis",
+"tonality": "m1",
+"filename": "m1//samyi-plokhoi-servis.txt"
+},
+{
+"student_name": "Курасов Илья",
+"student_group": 651,
+"student_number": 16,
+"date": "2015-08-09",
+"Data source": "https://irecommend.ru/content/neporyadochnaya-firma-0",
+"tonality": "p1",
+"filename": "p1//neporyadochnaya-firma-0.txt"
+},
+{
+"student_name": "Курасов Илья",
+"student_group": 651,
+"student_number": 16,
+"date": "2019-04-26",
+"Data source": "https://irecommend.ru/content/ezdil-s-nimi-2-raza-gotov-poekhat-i-eshche-raz",
+"tonality": "p1",
+"filename": "p1//ezdil-s-nimi-2-raza-gotov-poekhat-i-eshche-raz.txt"
+},
+{
+"student_name": "Курасов Илья",
+"student_group": 651,
+"student_number": 16,
+"date": "2016-09-07",
+"Data source": "https://irecommend.ru/content/isporchen-otpusk-0",
+"tonality": "m1",
+"filename": "m1//isporchen-otpusk-0.txt"
+},
+{
+"student_name": "Курасов Илья",
+"student_group": 651,
+"student_number": 16,
+"date": "2018-05-16",
+"Data source": "https://irecommend.ru/content/pervyi-opyt-poluchilsya-udachnym-0",
+"tonality": "p1",
+"filename": "p1//pervyi-opyt-poluchilsya-udachnym-0.txt"
+},
+{
+"student_name": "Курасов Илья",
+"student_group": 651,
+"student_number": 16,
+"date": "2018-02-12",
+"Data source": "https://irecommend.ru/content/dsbw-tur-prishlos-oplatit-dvazhdy",
+"tonality": "m1",
+"filename": "m1//dsbw-tur-prishlos-oplatit-dvazhdy.txt"
+},
+{
+"student_name": "Курасов Илья",
+"student_group": 651,
+"student_number": 16,
+"date": "2018-05-18",
+"Data source": "https://irecommend.ru/content/udivitelnaya-i-magicheskaya-chekhiya-s-dsbw",
+"tonality": "p1",
+"filename": "p1//udivitelnaya-i-magicheskaya-chekhiya-s-dsbw.txt"
+},
+{
+"student_name": "Курасов Илья",
+"student_group": 651,
+"student_number": 16,
+"date": "2013-07-10",
+"Data source": "https://irecommend.ru/content/pretenzii-net-26",
+"tonality": "p1",
+"filename": "p1//pretenzii-net-26.txt"
+},
+{
+"student_name": "Курасов Илья",
+"student_group": 651,
+"student_number": 16,
+"date": "2013-09-05",
+"Data source": "https://irecommend.ru/content/prekrasnyi-i-nedorogoi-otdykh",
+"tonality": "p1",
+"filename": "p1//prekrasnyi-i-nedorogoi-otdykh.txt"
+},
+{
+"student_name": "Курасов Илья",
+"student_group": 651,
+"student_number": 16,
+"date": "2013-11-11",
+"Data source": "https://irecommend.ru/content/posredstvennaya-kontorka",
+"tonality": "m1",
+"filename": "m1//posredstvennaya-kontorka.txt"
+},
+{
+"student_name": "Курасов Илья",
+"student_group": 651,
+"student_number": 16,
+"date": "2019-02-11",
+"Data source": "https://irecommend.ru/content/naglye-obmanshchiki",
+"tonality": "m1",
+"filename": "m1//naglye-obmanshchiki.txt"
+},
+{
+"student_name": "Курасов Илья",
+"student_group": 651,
+"student_number": 16,
+"date": "2018-03-17",
+"Data source": "https://irecommend.ru/content/nastoyatelno-rekomenduyu-15",
+"tonality": "p1",
+"filename": "p1//nastoyatelno-rekomenduyu-15.txt"
+},
+{
+"student_name": "Курасов Илья",
+"student_group": 651,
+"student_number": 16,
+"date": "2014-12-10",
+"Data source": "https://irecommend.ru/content/ochen-priyatnoe-obshchenie",
+"tonality": "p1",
+"filename": "p1//ochen-priyatnoe-obshchenie.txt"
+},
+{
+"student_name": "Курасов Илья",
+"student_group": 651,
+"student_number": 16,
+"date": "2019-09-25",
+"Data source": "https://irecommend.ru/content/nikogda-bolshe-102",
+"tonality": "m1",
+"filename": "m1//nikogda-bolshe-102.txt"
+},
+{
+"student_name": "Курасов Илья",
+"student_group": 651,
+"student_number": 16,
+"date": "2018-06-30",
+"Data source": "https://irecommend.ru/content/nikakoi-klientoorientirovannosti-obman-i-razvod",
+"tonality": "m1",
+"filename": "m1//nikakoi-klientoorientirovannosti-obman-i-razvod.txt"
+},
+{
+"student_name": "Курасов Илья",
+"student_group": 651,
+"student_number": 16,
+"date": "2018-07-06",
+"Data source": "https://irecommend.ru/content/razocharovanie-1102",
+"tonality": "m1",
+"filename": "m1//razocharovanie-1102.txt"
+},
+{
+"student_name": "Курасов Илья",
+"student_group": 651,
+"student_number": 16,
+"date": "2019-05-15",
+"Data source": "https://irecommend.ru/content/obkhodite-storonoi-cherez-buking-deshevle-i-bezopasnee",
+"tonality": "m1",
+"filename": "m1//obkhodite-storonoi-cherez-buking-deshevle-i-bezopasnee.txt"
+},
+{
+"student_name": "Курасов Илья",
+"student_group": 651,
+"student_number": 16,
+"date": "2018-10-02",
+"Data source": "https://irecommend.ru/content/vragu-ne-pozhelaesh-1001-tur",
+"tonality": "m1",
+"filename": "m1//vragu-ne-pozhelaesh-1001-tur.txt"
+},
+{
+"student_name": "Курасов Илья",
+"student_group": 651,
+"student_number": 16,
+"date": "2017-10-23",
+"Data source": "https://irecommend.ru/content/nastroenie-isportili-obdurili-i-ne-khotyat-ispravlyat-oshibki",
+"tonality": "m1",
+"filename": "m1//nastroenie-isportili-obdurili-i-ne-khotyat-ispravlyat-oshibki.txt"
+},
+{
+"student_name": "Курасов Илья",
+"student_group": 651,
+"student_number": 16,
+"date": "2017-10-25",
+"Data source": "https://irecommend.ru/content/khotite-khorosho-otdokhnut-organizuite-otdykh-sami",
+"tonality": "m1",
+"filename": "m1//khotite-khorosho-otdokhnut-organizuite-otdykh-sami.txt"
+},
+{
+"student_name": "Курасов Илья",
+"student_group": 651,
+"student_number": 16,
+"date": "2018-12-10",
+"Data source": "https://irecommend.ru/content/otvratitelno-1428",
+"tonality": "m1",
+"filename": "m1//otvratitelno-1428.txt"
+},
+{
+"student_name": "Курасов Илья",
+"student_group": 651,
+"student_number": 16,
+"date": "2017-09-12",
+"Data source": "https://irecommend.ru/content/nedobrosovestnyi-turagent-ne-riskuite-vashim-otdykhom-i-dengami",
+"tonality": "m1",
+"filename": "m1//nedobrosovestnyi-turagent-ne-riskuite-vashim-otdykhom-i-dengami.txt"
+},
+{
+"student_name": "Курасов Илья",
+"student_group": 651,
+"student_number": 16,
+"date": "2016-10-27",
+"Data source": "https://irecommend.ru/content/otlichno-otdokhnuli-v-sharme",
+"tonality": "p1",
+"filename": "p1//otlichno-otdokhnuli-v-sharme.txt"
+},
+{
+"student_name": "Курасов Илья",
+"student_group": 651,
+"student_number": 16,
+"date": "2014-03-13",
+"Data source": "https://irecommend.ru/content/puteshestvie-v-budushchee-tailand",
+"tonality": "p1",
+"filename": "p1//puteshestvie-v-budushchee-tailand.txt"
+},
+{
+"student_name": "Курасов Илья",
+"student_group": 651,
+"student_number": 16,
+"date": "2017-02-17",
+"Data source": "https://irecommend.ru/content/khoroshii-otdykh-po-razumnoi-tsene",
+"tonality": "p1",
+"filename": "p1//khoroshii-otdykh-po-razumnoi-tsene.txt"
+},
+{
+"student_name": "Курасов Илья",
+"student_group": 651,
+"student_number": 16,
+"date": "2017-04-27",
+"Data source": "https://irecommend.ru/content/gramotnye-sotrudniki-vybirayushchie-luchshie-tury",
+"tonality": "p1",
+"filename": "p1//gramotnye-sotrudniki-vybirayushchie-luchshie-tury.txt"
+},
+{
+"student_name": "Курасов Илья",
+"student_group": 651,
+"student_number": 16,
+"date": "2015-04-29",
+"Data source": "https://irecommend.ru/content/neplokhaya-pomoshch-v-organizatsii-turisticheskikh-poezdok",
+"tonality": "p1",
+"filename": "p1//neplokhaya-pomoshch-v-organizatsii-turisticheskikh-poezdok.txt"
+},
+{
+"student_name": "Курасов Илья",
+"student_group": 651,
+"student_number": 16,
+"date": "2016-10-08",
+"Data source": "https://irecommend.ru/content/otlichno-ot-i-do",
+"tonality": "p1",
+"filename": "p1//otlichno-ot-i-do.txt"
+},
+{
+"student_name": "Курасов Илья",
+"student_group": 651,
+"student_number": 16,
+"date": "2017-01-20",
+"Data source": "https://irecommend.ru/content/vpolne-sebe-pristoino",
+"tonality": "p1",
+"filename": "p1//vpolne-sebe-pristoino.txt"
+},
+{
+"student_name": "Курасов Илья",
+"student_group": 651,
+"student_number": 16,
+"date": "2017-09-11",
+"Data source": "https://irecommend.ru/content/otlichno-2942",
+"tonality": "p1",
+"filename": "p1//otlichno-2942.txt"
+},
+{
+"student_name": "Курасов Илья",
+"student_group": 651,
+"student_number": 16,
+"date": "2017-12-04",
+"Data source": "https://irecommend.ru/content/samaya-krupnaya-i-nadezhnaya-kompaniya",
+"tonality": "p1",
+"filename": "p1//samaya-krupnaya-i-nadezhnaya-kompaniya.txt"
+},
+{
+"student_name": "Курасов Илья",
+"student_group": 651,
+"student_number": 16,
+"date": "2017-01-27",
+"Data source": "https://irecommend.ru/content/dostoino-198",
+"tonality": "p1",
+"filename": "p1//dostoino-198.txt"
+},
+{
+"student_name": "Курасов Илья",
+"student_group": 651,
+"student_number": 16,
+"date": "2016-07-13",
+"Data source": "https://irecommend.ru/content/otlichnaya-turfirma-10",
+"tonality": "p1",
+"filename": "p1//otlichnaya-turfirma-10.txt"
+},
+{
+"student_name": "Курасов Илья",
+"student_group": 651,
+"student_number": 16,
+"date": "2016-07-15",
+"Data source": "https://irecommend.ru/content/1001-tur-tak-derzhat",
+"tonality": "p1",
+"filename": "p1//1001-tur-tak-derzhat.txt"
+},
+{
+"student_name": "Курасов Илья",
+"student_group": 651,
+"student_number": 16,
+"date": "2019-07-30",
+"Data source": "https://irecommend.ru/content/poka-luchshaya-iz-vsekh-v-pitere-po-poezdkam-v-finlyandiyu-0",
+"tonality": "p1",
+"filename": "p1//poka-luchshaya-iz-vsekh-v-pitere-po-poezdkam-v-finlyandiyu-0.txt"
+},
+{
+"student_name": "Курасов Илья",
+"student_group": 651,
+"student_number": 16,
+"date": "2015-10-31",
+"Data source": "https://irecommend.ru/content/kogda-nado-otkatat-vizu",
+"tonality": "zero",
+"filename": "zero//kogda-nado-otkatat-vizu.txt"
+},
+{
+"student_name": "Курасов Илья",
+"student_group": 651,
+"student_number": 16,
+"date": "2018-04-13",
+"Data source": "https://irecommend.ru/content/klient-vsegda-ne-prav-2",
+"tonality": "m1",
+"filename": "m1//klient-vsegda-ne-prav-2.txt"
+},
+{
+"student_name": "Курасов Илья",
+"student_group": 651,
+"student_number": 16,
+"date": "2017-07-14",
+"Data source": "https://irecommend.ru/content/interlyuks-turfirma",
+"tonality": "m1",
+"filename": "m1//interlyuks-turfirma.txt"
+},
+{
+"student_name": "Курасов Илья",
+"student_group": 651,
+"student_number": 16,
+"date": "2019-01-29",
+"Data source": "https://irecommend.ru/content/otlichno-3532",
+"tonality": "p1",
+"filename": "p1//otlichno-3532.txt"
+},
+{
+"student_name": "Курасов Илья",
+"student_group": 651,
+"student_number": 16,
+"date": "2017-11-17",
+"Data source": "https://irecommend.ru/content/kruiznyi-tur-luchshii-vybor-otdykha",
+"tonality": "p1",
+"filename": "p1//kruiznyi-tur-luchshii-vybor-otdykha.txt"
+},
+{
+"student_name": "Курасов Илья",
+"student_group": 651,
+"student_number": 16,
+"date": "2019-07-04",
+"Data source": "https://irecommend.ru/content/isporchennyi-otdykh-25",
+"tonality": "m1",
+"filename": "m1//isporchennyi-otdykh-25.txt"
+},
+{
+"student_name": "Курасов Илья",
+"student_group": 651,
+"student_number": 16,
+"date": "2017-10-18",
+"Data source": "https://irecommend.ru/content/kraine-ne-rekomenduyu-dannuyu-kompaniyu",
+"tonality": "m1",
+"filename": "m1//kraine-ne-rekomenduyu-dannuyu-kompaniyu.txt"
+},
+{
+"student_name": "Курасов Илья",
+"student_group": 651,
+"student_number": 16,
+"date": "2019-01-06",
+"Data source": "https://irecommend.ru/content/uzhasno-1251",
+"tonality": "m1",
+"filename": "m1//uzhasno-1251.txt"
+},
+{
+"student_name": "Курасов Илья",
+"student_group": 651,
+"student_number": 16,
+"date": "2019-02-19",
+"Data source": "https://irecommend.ru/content/ne-vypolnyayut-obyazatelstva-i-ne-vozvrashchayut-dengi",
+"tonality": "m1",
+"filename": "m1//ne-vypolnyayut-obyazatelstva-i-ne-vozvrashchayut-dengi.txt"
+},
+{
+"student_name": "Курасов Илья",
+"student_group": 651,
+"student_number": 16,
+"date": "2015-10-27",
+"Data source": "https://irecommend.ru/content/poezdki-v-kareliyu-iz-sankt-peterburga",
+"tonality": "p1",
+"filename": "p1//poezdki-v-kareliyu-iz-sankt-peterburga.txt"
+},
+{
+"student_name": "Курасов Илья",
+"student_group": 651,
+"student_number": 16,
+"date": "2019-06-23",
+"Data source": "https://irecommend.ru/content/plokho-879",
+"tonality": "m1",
+"filename": "m1//plokho-879.txt"
+},
+{
+"student_name": "Курасов Илья",
+"student_group": 651,
+"student_number": 16,
+"date": "2019-06-04",
+"Data source": "https://irecommend.ru/content/kareliya-vostorg-more-vpechatlenii",
+"tonality": "p1",
+"filename": "p1//kareliya-vostorg-more-vpechatlenii.txt"
+},
+{
+"student_name": "Курасов Илья",
+"student_group": 651,
+"student_number": 16,
+"date": "2017-05-09",
+"Data source": "https://irecommend.ru/content/skantur-gornyi-park-ruskeala-ne-rekomenduyu",
+"tonality": "m1",
+"filename": "m1//skantur-gornyi-park-ruskeala-ne-rekomenduyu.txt"
+},
+{
+"student_name": "Курасов Илья",
+"student_group": 651,
+"student_number": 16,
+"date": "2017-09-01",
+"Data source": "https://irecommend.ru/content/dolgozhdannaya-poezdka-v-kareliyu",
+"tonality": "p1",
+"filename": "p1//dolgozhdannaya-poezdka-v-kareliyu.txt"
+},
+{
+"student_name": "Курасов Илья",
+"student_group": 651,
+"student_number": 16,
+"date": "2018-07-01",
+"Data source": "https://irecommend.ru/content/s-udovolstviem-provela-vremya",
+"tonality": "p1",
+"filename": "p1//s-udovolstviem-provela-vremya.txt"
+},
+{
+"student_name": "Курасов Илья",
+"student_group": 651,
+"student_number": 16,
+"date": "2017-08-20",
+"Data source": "https://irecommend.ru/content/bylo-interesno-6",
+"tonality": "p1",
+"filename": "p1//bylo-interesno-6.txt"
+},
+{
+"student_name": "Курасов Илья",
+"student_group": 651,
+"student_number": 16,
+"date": "2017-08-18",
+"Data source": "https://irecommend.ru/content/shikarnaya-poezdka",
+"tonality": "p1",
+"filename": "p1//shikarnaya-poezdka.txt"
+},
+
+{
+"student_name": "Курасов Илья",
+"student_group": 651,
+"student_number": 16,
+"date": "2019-07-04",
+"Data source": "https://irecommend.ru/content/nikogda-nikomu-ne-budu-rekomendovat",
+"tonality": "m1",
+"filename": "m1//nikogda-nikomu-ne-budu-rekomendovat.txt"
+},
+{
+"student_name": "Курасов Илья",
+"student_group": 651,
+"student_number": 16,
+"date": "2014-06-02",
+"Data source": "https://irecommend.ru/content/ne-pyaterka-no-ochen-rekomenduyu",
+"tonality": "p1",
+"filename": "p1//ne-pyaterka-no-ochen-rekomenduyu.txt"
+},
+{
+"student_name": "Курасов Илья",
+"student_group": 651,
+"student_number": 16,
+"date": "2018-06-13",
+"Data source": "https://irecommend.ru/content/uzhasnaya-kompaniya-ne-sovetuem-nikomu",
+"tonality": "m1",
+"filename": "m1//uzhasnaya-kompaniya-ne-sovetuem-nikomu.txt"
+},
+{
+"student_name": "Курасов Илья",
+"student_group": 651,
+"student_number": 16,
+"date": "2013-09-03",
+"Data source": "https://irecommend.ru/content/otlichnoe-agenstvo",
+"tonality": "p1",
+"filename": "p1//otlichnoe-agenstvo.txt"
+},
+{
+"student_name": "Курасов Илья",
+"student_group": 651,
+"student_number": 16,
+"date": "2014-09-22",
+"Data source": "https://irecommend.ru/content/mne-navernoe-ne-povezlo",
+"tonality": "zero",
+"filename": "zero//mne-navernoe-ne-povezlo.txt"
+},
+{
+"student_name": "Курасов Илья",
+"student_group": 651,
+"student_number": 16,
+"date": "2018-04-26",
+"Data source": "https://irecommend.ru/content/ne-sovetuyu-1061",
+"tonality": "m1",
+"filename": "m1//ne-sovetuyu-1061.txt"
+},
+{
+"student_name": "Курасов Илья",
+"student_group": 651,
+"student_number": 16,
+"date": "2015-07-23",
+"Data source": "https://irecommend.ru/content/otdykh-udalsya-18",
+"tonality": "p1",
+"filename": "p1//otdykh-udalsya-18.txt"
+},
+{
+"student_name": "Курасов Илья",
+"student_group": 651,
+"student_number": 16,
+"date": "2015-09-30",
+"Data source": "https://irecommend.ru/content/podobrali-khoroshii-tur",
+"tonality": "p1",
+"filename": "p1//podobrali-khoroshii-tur.txt"
+},
+{
+"student_name": "Курасов Илья",
+"student_group": 651,
+"student_number": 16,
+"date": "2018-04-02",
+"Data source": "https://irecommend.ru/content/khoroshii-sait-dlya-zakaza-ekskursii",
+"tonality": "p1",
+"filename": "p1//khoroshii-sait-dlya-zakaza-ekskursii.txt"
+},
+{
+"student_name": "Курасов Илья",
+"student_group": 651,
+"student_number": 16,
+"date": "2018-06-09",
+"Data source": "https://irecommend.ru/content/obratilis-v-intravel-stoleshniki-k-lyudyam-razbirayushchimsya-v-turizme",
+"tonality": "p1",
+"filename": "p1//obratilis-v-intravel-stoleshniki-k-lyudyam-razbirayushchimsya-v-turizme.txt"
+},
+{
+"student_name": "Курасов Илья",
+"student_group": 651,
+"student_number": 16,
+"date": "2014-02-13",
+"Data source": "https://irecommend.ru/content/otlichnye-tseny-0",
+"tonality": "p1",
+"filename": "p1//otlichnye-tseny-0.txt"
+},
+{
+"student_name": "Курасов Илья",
+"student_group": 651,
+"student_number": 16,
+"date": "2014-04-04",
+"Data source": "https://irecommend.ru/content/raskachivayutsya",
+"tonality": "zero",
+"filename": "zero//raskachivayutsya.txt"
+},
+{
+"student_name": "Курасов Илья",
+"student_group": 651,
+"student_number": 16,
+"date": "2014-07-22",
+"Data source": "https://irecommend.ru/content/deshevo-i-kachestvenno-39",
+"tonality": "p1",
+"filename": "p1//deshevo-i-kachestvenno-39.txt"
+},
+{
+"student_name": "Курасов Илья",
+"student_group": 651,
+"student_number": 16,
+"date": "2015-03-03",
+"Data source": "https://irecommend.ru/content/pervyi-raz-kupil-paketnyi-tur",
+"tonality": "p1",
+"filename": "p1//pervyi-raz-kupil-paketnyi-tur.txt"
+},
+{
+"student_name": "Курасов Илья",
+"student_group": 651,
+"student_number": 16,
+"date": "2013-11-16",
+"Data source": "https://irecommend.ru/content/isporchennyiotdykh-poterya-deneg",
+"tonality": "m1",
+"filename": "m1//isporchennyiotdykh-poterya-deneg.txt"
+},
+{
+"student_name": "Курасов Илья",
+"student_group": 651,
+"student_number": 16,
+"date": "2019-09-18",
+"Data source": "https://irecommend.ru/content/nikogda-ne-budu-otdykhat-s-altair-dzerzhinsk",
+"tonality": "m1",
+"filename": "m1//nikogda-ne-budu-otdykhat-s-altair-dzerzhinsk.txt"
+},
+{
+"student_name": "Курасов Илья",
+"student_group": 651,
+"student_number": 16,
+"date": "2014-04-16",
+"Data source": "https://irecommend.ru/content/ostorozhno-magazin-goryashchikh-putevok",
+"tonality": "m1",
+"filename": "m1//ostorozhno-magazin-goryashchikh-putevok.txt"
+},
+{
+"student_name": "Курасов Илья",
+"student_group": 651,
+"student_number": 16,
+"date": "2015-08-14",
+"Data source": "https://irecommend.ru/content/luchshie-tseny-pravda",
+"tonality": "p1",
+"filename": "p1//luchshie-tseny-pravda.txt"
+},
+{
+"student_name": "Курасов Илья",
+"student_group": 651,
+"student_number": 16,
+"date": "2019-02-08",
+"Data source": "https://irecommend.ru/content/letaem-otdykhat-s-nimi-uzhe-ne-pervyi-god",
+"tonality": "p1",
+"filename": "p1//letaem-otdykhat-s-nimi-uzhe-ne-pervyi-god.txt"
+},
+{
+"student_name": "Курасов Илья",
+"student_group": 651,
+"student_number": 16,
+"date": "2018-04-05",
+"Data source": "https://irecommend.ru/content/vsegda-pokupaem-zdes",
+"tonality": "p1",
+"filename": "p1//vsegda-pokupaem-zdes.txt"
+},
+{
+"student_name": "Курасов Илья",
+"student_group": 651,
+"student_number": 16,
+"date": "2013-09-10",
+"Data source": "https://irecommend.ru/content/otvratitelno-312",
+"tonality": "m1",
+"filename": "m1//otvratitelno-312.txt"
+},
+{
+"student_name": "Курасов Илья",
+"student_group": 651,
+"student_number": 16,
+"date": "2013-12-09",
+"Data source": "https://irecommend.ru/content/zamechatelnaya-belorusskaya-zheleznaya-doroga",
+"tonality": "p1",
+"filename": "p1//zamechatelnaya-belorusskaya-zheleznaya-doroga.txt"
+},
+{
+"student_name": "Курасов Илья",
+"student_group": 651,
+"student_number": 16,
+"date": "2016-10-18",
+"Data source": "https://irecommend.ru/content/nadezhnaya-kompaniya-10",
+"tonality": "p1",
+"filename": "p1//nadezhnaya-kompaniya-10.txt"
+},
+{
+"student_name": "Курасов Илья",
+"student_group": 651,
+"student_number": 16,
+"date": "2019-03-10",
+"Data source": "https://irecommend.ru/content/ne-rekomenduyu-1145",
+"tonality": "m1",
+"filename": "m1//ne-rekomenduyu-1145.txt"
+},
+{
+"student_name": "Курасов Илья",
+"student_group": 651,
+"student_number": 16,
+"date": "2019-06-18",
+"Data source": "https://irecommend.ru/content/puteshestvuite-sami-bez-turfirm",
+"tonality": "zero",
+"filename": "zero//puteshestvuite-sami-bez-turfirm.txt"
+},
+{
+"student_name": "Курасов Илья",
+"student_group": 651,
+"student_number": 16,
+"date": "2018-09-25",
+"Data source": "https://irecommend.ru/content/kucha-kosyakov-i-oshibok-do-poezdki-no-v-puti-vse-bylo-otlichno-rasskazyvayu-pro-puteshestvi",
+"tonality": "zero",
+"filename": "zero//kucha-kosyakov-i-oshibok-do-poezdki-no-v-puti-vse-bylo-otlichno-rasskazyvayu-pro-puteshestvi.txt"
+},
+{
+"student_name": "Курасов Илья",
+"student_group": 651,
+"student_number": 16,
+"date": "2019-06-20",
+"Data source": "https://irecommend.ru/content/eto-proval-25",
+"tonality": "m1",
+"filename": "m1//eto-proval-25.txt"
+},
+{
+"student_name": "Курасов Илья",
+"student_group": 651,
+"student_number": 16,
+"date": "2018-01-03",
+"Data source": "https://irecommend.ru/content/khoroshaya-kompaniya-rebyata-ne-zrya-edyat-svoi-khleb",
+"tonality": "p1",
+"filename": "p1//khoroshaya-kompaniya-rebyata-ne-zrya-edyat-svoi-khleb.txt"
+},
+{
+"student_name": "Курасов Илья",
+"student_group": 651,
+"student_number": 16,
+"date": "2018-01-03",
+"Data source": "https://irecommend.ru/content/prikolnyi-servis",
+"tonality": "p1",
+"filename": "p1//prikolnyi-servis.txt"
+},
+{
+"student_name": "Курасов Илья",
+"student_group": 651,
+"student_number": 16,
+"date": "2018-07-23",
+"Data source": "https://irecommend.ru/content/otlichnyi-otdykh-s-trevl",
+"tonality": "p1",
+"filename": "p1//otlichnyi-otdykh-s-trevl.txt"
+},
+{
+"student_name": "Курасов Илья",
+"student_group": 651,
+"student_number": 16,
+"date": "2015-06-08",
+"Data source": "https://irecommend.ru/content/super-3699",
+"tonality": "p1",
+"filename": "p1//super-3699.txt"
+},
+{
+"student_name": "Курасов Илья",
+"student_group": 651,
+"student_number": 16,
+"date": "2014-01-19",
+"Data source": "https://irecommend.ru/content/vstrecha-s-santa-klausom",
+"tonality": "p1",
+"filename": "p1//vstrecha-s-santa-klausom.txt"
+},
+{
+"student_name": "Курасов Илья",
+"student_group": 651,
+"student_number": 16,
+"date": "2014-07-25",
+"Data source": "https://irecommend.ru/content/rasskazhu-vsyu-pravdu-o-turfirme",
+"tonality": "zero",
+"filename": "zero//rasskazhu-vsyu-pravdu-o-turfirme.txt"
+},
+{
+"student_name": "Курасов Илья",
+"student_group": 651,
+"student_number": 16,
+"date": "2014-02-13",
+"Data source": "https://irecommend.ru/content/vse-ponravilos-18",
+"tonality": "p1",
+"filename": "p1//vse-ponravilos-18.txt"
+},
+{
+"student_name": "Курасов Илья",
+"student_group": 651,
+"student_number": 16,
+"date": "2017-05-01",
+"Data source": "https://irecommend.ru/content/normalnye-poezdki-v-lappeenrantu-no-gid-dolzhen-byt-bolee-vnimatelnym",
+"tonality": "zero",
+"filename": "zero//normalnye-poezdki-v-lappeenrantu-no-gid-dolzhen-byt-bolee-vnimatelnym.txt"
+},
+{
+"student_name": "Курасов Илья",
+"student_group": 651,
+"student_number": 16,
+"date": "2016-01-05",
+"Data source": "https://irecommend.ru/content/vybiraite-druguyu-tur-firmu",
+"tonality": "m1",
+"filename": "m1//vybiraite-druguyu-tur-firmu.txt"
+},
+{
+"student_name": "Курасов Илья",
+"student_group": 651,
+"student_number": 16,
+"date": "2017-06-08",
+"Data source": "https://irecommend.ru/content/normalno-otdokhnuli-0",
+"tonality": "zero",
+"filename": "zero//normalno-otdokhnuli-0.txt"
+},
+{
+"student_name": "Курасов Илья",
+"student_group": 651,
+"student_number": 16,
+"date": "2013-11-25",
+"Data source": "https://irecommend.ru/content/uzhasnoe-otnoshenie-k-klientam-ne-tratte-svoe-vremya-i-sily-na-nikh",
+"tonality": "m1",
+"filename": "m1//uzhasnoe-otnoshenie-k-klientam-ne-tratte-svoe-vremya-i-sily-na-nikh.txt"
+},
+{
+"student_name": "Курасов Илья",
+"student_group": 651,
+"student_number": 16,
+"date": "2013-09-12",
+"Data source": "https://irecommend.ru/content/ochen-zhaleyu-chto-svyazalis-s-itour",
+"tonality": "m1",
+"filename": "m1//ochen-zhaleyu-chto-svyazalis-s-itour.txt"
+},
+{
+"student_name": "Курасов Илья",
+"student_group": 651,
+"student_number": 16,
+"date": "2014-07-07",
+"Data source": "https://irecommend.ru/content/izmotali-vse-nervy",
+"tonality": "m1",
+"filename": "m1//izmotali-vse-nervy.txt"
+},
+{
+"student_name": "Курасов Илья",
+"student_group": 651,
+"student_number": 16,
+"date": "2014-09-01",
+"Data source": "https://irecommend.ru/content/lokhotron-115",
+"tonality": "m1",
+"filename": "m1//lokhotron-115.txt"
+},
+{
+"student_name": "Курасов Илья",
+"student_group": 651,
+"student_number": 16,
+"date": "2014-06-08",
+"Data source": "https://irecommend.ru/content/sploshnoi-razvod-i-nedostovernaya-informatsiya",
+"tonality": "m1",
+"filename": "m1//sploshnoi-razvod-i-nedostovernaya-informatsiya.txt"
+},
+{
+"student_name": "Курасов Илья",
+"student_group": 651,
+"student_number": 16,
+"date": "2018-07-24",
+"Data source": "https://irecommend.ru/content/turfirma-s-kotoroi-ya-otdykhayu-uzhe-6-let",
+"tonality": "p1",
+"filename": "p1//turfirma-s-kotoroi-ya-otdykhayu-uzhe-6-let.txt"
+},
+{
+"student_name": "Курасов Илья",
+"student_group": 651,
+"student_number": 16,
+"date": "2014-05-07",
+"Data source": "https://irecommend.ru/content/pervyi-blin-ne-komom-15",
+"tonality": "p1",
+"filename": "p1//pervyi-blin-ne-komom-15.txt"
+},
+{
+"student_name": "Курасов Илья",
+"student_group": 651,
+"student_number": 16,
+"date": "2019-08-23",
+"Data source": "https://irecommend.ru/content/khoroshee-turagentstvo-proverennoe-vremenem",
+"tonality": "p1",
+"filename": "p1//khoroshee-turagentstvo-proverennoe-vremenem.txt"
+},
+{
+"student_name": "Курасов Илья",
+"student_group": 651,
+"student_number": 16,
+"date": "2015-10-07",
+"Data source": "https://irecommend.ru/content/bolshe-minusov-chem-plyusov-35",
+"tonality": "zero",
+"filename": "zero//bolshe-minusov-chem-plyusov-35.txt"
+},
+{
+"student_name": "Курасов Илья",
+"student_group": 651,
+"student_number": 16,
+"date": "2017-08-01",
+"Data source": "https://irecommend.ru/content/v-printsipe-otdykh-kraine-neobychnyi-i-vsem-ego-rekomenduyu",
+"tonality": "p1",
+"filename": "p1//v-printsipe-otdykh-kraine-neobychnyi-i-vsem-ego-rekomenduyu.txt"
+},
+{
+"student_name": "Курасов Илья",
+"student_group": 651,
+"student_number": 16,
+"date": "2017-08-07",
+"Data source": "https://irecommend.ru/content/zdorovo-otdokhnuli-1",
+"tonality": "p1",
+"filename": "p1//zdorovo-otdokhnuli-1.txt"
+},
+{
+"student_name": "Курасов Илья",
+"student_group": 651,
+"student_number": 16,
+"date": "2018-05-01",
+"Data source": "https://irecommend.ru/content/glavnoe-menedzhera-khoroshego-vstretit",
+"tonality": "p1",
+"filename": "p1//glavnoe-menedzhera-khoroshego-vstretit.txt"
+},
+{
+"student_name": "Курасов Илья",
+"student_group": 651,
+"student_number": 16,
+"date": "2015-07-08",
+"Data source": "https://irecommend.ru/content/otdykhat-vsegda-khorosho-otdykhat-so-skidkoi-eshche-luchshe",
+"tonality": "p1",
+"filename": "p1//otdykhat-vsegda-khorosho-otdykhat-so-skidkoi-eshche-luchshe.txt"
+},
+{
+"student_name": "Курасов Илья",
+"student_group": 651,
+"student_number": 16,
+"date": "2015-05-02",
+"Data source": "https://irecommend.ru/content/otsutstvie-zhelaniya-pomoch-klientu",
+"tonality": "m1",
+"filename": "m1//otsutstvie-zhelaniya-pomoch-klientu.txt"
+},
+{
+"student_name": "Курасов Илья",
+"student_group": 651,
+"student_number": 16,
+"date": "2015-09-13",
+"Data source": "https://irecommend.ru/content/otlichnyi-otdykh-so-skidkami",
+"tonality": "p1",
+"filename": "p1//otlichnyi-otdykh-so-skidkami.txt"
+},
+{
+"student_name": "Курасов Илья",
+"student_group": 651,
+"student_number": 16,
+"date": "2018-06-20",
+"Data source": "https://irecommend.ru/content/i-vse-khoroshono-menedzhery-dobavili-nervoznosti-v-den-vyleta",
+"tonality": "zero",
+"filename": "zero//i-vse-khoroshono-menedzhery-dobavili-nervoznosti-v-den-vyleta.txt"
+},
+{
+"student_name": "Курасов Илья",
+"student_group": 651,
+"student_number": 16,
+"date": "2017-07-02",
+"Data source": "https://irecommend.ru/content/v-pervyi-zhe-poslednii-raz",
+"tonality": "m1",
+"filename": "m1//v-pervyi-zhe-poslednii-raz.txt"
+},
+{
+"student_name": "Курасов Илья",
+"student_group": 651,
+"student_number": 16,
+"date": "2017-08-22",
+"Data source": "https://irecommend.ru/content/nizkie-tseny-no-nedogovarivayut-nekotoruyu-vazhnuyu-informatsiyu-o-ture",
+"tonality": "zero",
+"filename": "zero//nizkie-tseny-no-nedogovarivayut-nekotoruyu-vazhnuyu-informatsiyu-o-ture.txt"
+},
+{
+"student_name": "Курасов Илья",
+"student_group": 651,
+"student_number": 16,
+"date": "2019-01-06",
+"Data source": "https://irecommend.ru/content/uzhasno-1250",
+"tonality": "m1",
+"filename": "m1//uzhasno-1250.txt"
+},
+{
+"student_name": "Курасов Илья",
+"student_group": 651,
+"student_number": 16,
+"date": "2018-12-09",
+"Data source": "https://irecommend.ru/content/pervaya-pokupka-proshla-na-ura",
+"tonality": "p1",
+"filename": "p1//pervaya-pokupka-proshla-na-ura.txt"
+},
+{
+"student_name": "Курасов Илья",
+"student_group": 651,
+"student_number": 16,
+"date": "2019-07-03",
+"Data source": "https://irecommend.ru/content/vernus-snova",
+"tonality": "p1",
+"filename": "p1//vernus-snova.txt"
+},
+{
+"student_name": "Курасов Илья",
+"student_group": 651,
+"student_number": 16,
+"date": "2018-04-27",
+"Data source": "https://irecommend.ru/content/khoroshii-otdykh-za-normalnye-tseny",
+"tonality": "p1",
+"filename": "p1//khoroshii-otdykh-za-normalnye-tseny.txt"
+},
+{
+"student_name": "Курасов Илья",
+"student_group": 651,
+"student_number": 16,
+"date": "2018-07-02",
+"Data source": "https://irecommend.ru/content/v-sochi-na-tri-nochi",
+"tonality": "p1",
+"filename": "p1//v-sochi-na-tri-nochi.txt"
+},
+{
+"student_name": "Курасов Илья",
+"student_group": 651,
+"student_number": 16,
+"date": "2019-07-09",
+"Data source": "https://irecommend.ru/content/moi-garant-otlichnogo-otpuska",
+"tonality": "p1",
+"filename": "p1//moi-garant-otlichnogo-otpuska.txt"
+},
+{
+"student_name": "Курасов Илья",
+"student_group": 651,
+"student_number": 16,
+"date": "2018-07-17",
+"Data source": "https://irecommend.ru/content/pervyi-raz-rasstroena-pri-bronirovanii-cherez-eto-agenstvo",
+"tonality": "zero",
+"filename": "zero//pervyi-raz-rasstroena-pri-bronirovanii-cherez-eto-agenstvo.txt"
+},
+{
+"student_name": "Курасов Илья",
+"student_group": 651,
+"student_number": 16,
+"date": "2019-06-26",
+"Data source": "https://irecommend.ru/content/sorvannyi-otdykh",
+"tonality": "m1",
+"filename": "m1//sorvannyi-otdykh.txt"
+},
+{
+"student_name": "Курасов Илья",
+"student_group": 651,
+"student_number": 16,
+"date": "2018-02-03",
+"Data source": "https://irecommend.ru/content/udobnyi-servis-i-nevnimatelnoe-povedenie-sotrudnikov",
+"tonality": "zero",
+"filename": "zero//udobnyi-servis-i-nevnimatelnoe-povedenie-sotrudnikov.txt"
+},
+{
+"student_name": "Курасов Илья",
+"student_group": 651,
+"student_number": 16,
+"date": "2017-06-07",
+"Data source": "https://irecommend.ru/content/uzh-luchshe-v-takom-sluchae-planirovat-svoe-puteshestvie-samostoyatelno",
+"tonality": "m1",
+"filename": "m1//uzh-luchshe-v-takom-sluchae-planirovat-svoe-puteshestvie-samostoyatelno.txt"
+},
+{
+"student_name": "Курасов Илья",
+"student_group": 651,
+"student_number": 16,
+"date": "2019-07-20",
+"Data source": "https://irecommend.ru/content/udobnyi-servis-onlain-bronirovaniya-turov",
+"tonality": "p1",
+"filename": "p1//udobnyi-servis-onlain-bronirovaniya-turov.txt"
+},
+{
+"student_name": "Курасов Илья",
+"student_group": 651,
+"student_number": 16,
+"date": "2019-11-07",
+"Data source": "https://irecommend.ru/content/pervoe-obrashchenie-ogorcheny",
+"tonality": "m1",
+"filename": "m1//pervoe-obrashchenie-ogorcheny.txt"
+},
+{
+"student_name": "Курасов Илья",
+"student_group": 651,
+"student_number": 16,
+"date": "2014-02-22",
+"Data source": "https://irecommend.ru/content/udobnyi-internet-magazin-3",
+"tonality": "p1",
+"filename": "p1//udobnyi-internet-magazin-3.txt"
+},
+{
+"student_name": "Курасов Илья",
+"student_group": 651,
+"student_number": 16,
+"date": "2017-11-17",
+"Data source": "https://irecommend.ru/content/porekomenduyu",
+"tonality": "p1",
+"filename": "p1//porekomenduyu.txt"
+},
+{
+"student_name": "Курасов Илья",
+"student_group": 651,
+"student_number": 16,
+"date": "2019-10-22",
+"Data source": "https://irecommend.ru/content/udobno-zakazyvat-tury-i-v-ofise-i-onlain",
+"tonality": "p1",
+"filename": "p1//udobno-zakazyvat-tury-i-v-ofise-i-onlain.txt"
+},
+{
+"student_name": "Курасов Илья",
+"student_group": 651,
+"student_number": 16,
+"date": "2019-02-19",
+"Data source": "https://irecommend.ru/content/polnyi-random",
+"tonality": "zero",
+"filename": "zero//polnyi-random.txt"
+},
+{
+"student_name": "Курасов Илья",
+"student_group": 651,
+"student_number": 16,
+"date": "2019-06-29",
+"Data source": "https://irecommend.ru/content/budte-ostorozhny-209",
+"tonality": "m1",
+"filename": "m1//budte-ostorozhny-209.txt"
+},
+{
+"student_name": "Курасов Илья",
+"student_group": 651,
+"student_number": 16,
+"date": "2018-11-22",
+"Data source": "https://irecommend.ru/content/ne-tratte-svoi-dengi-oni-prosto-prinimayut-dokumenty-i-ne-nesut-otvetstvennosti-ni-za-chto",
+"tonality": "m1",
+"filename": "m1//ne-tratte-svoi-dengi-oni-prosto-prinimayut-dokumenty-i-ne-nesut-otvetstvennosti-ni-za-chto.txt"
+},
+{
+"student_name": "Курасов Илья",
+"student_group": 651,
+"student_number": 16,
+"date": "2018-05-31",
+"Data source": "https://irecommend.ru/content/ochen-neprivetlivyi-personal",
+"tonality": "zero",
+"filename": "zero//ochen-neprivetlivyi-personal.txt"
+},
+
+{
+"student_name": "Курасов Илья",
+"student_group": 651,
+"student_number": 16,
+"date": "2016-12-22",
+"Data source": "https://irecommend.ru/content/esli-budet-vybor-oboidu-storonoi",
+"tonality": "zero",
+"filename": "zero//esli-budet-vybor-oboidu-storonoi.txt"
+},
+{
+"student_name": "Курасов Илья",
+"student_group": 651,
+"student_number": 16,
+"date": "2015-09-30",
+"Data source": "https://irecommend.ru/content/otlichnaya-turfirma-9",
+"tonality": "p1",
+"filename": "p1//otlichnaya-turfirma-9.txt"
+},
+{
+"student_name": "Курасов Илья",
+"student_group": 651,
+"student_number": 16,
+"date": "2019-03-26",
+"Data source": "https://irecommend.ru/content/ne-rekomenduyu-1156",
+"tonality": "m1",
+"filename": "m1//ne-rekomenduyu-1156.txt"
+},
+{
+"student_name": "Курасов Илья",
+"student_group": 651,
+"student_number": 16,
+"date": "2019-08-09",
+"Data source": "https://irecommend.ru/content/pervyi-opyt-okazalsya-vesma-udachnym-spasibo-turoperatoru",
+"tonality": "p1",
+"filename": "p1//pervyi-opyt-okazalsya-vesma-udachnym-spasibo-turoperatoru.txt"
+},
+{
+"student_name": "Курасов Илья",
+"student_group": 651,
+"student_number": 16,
+"date": "2017-06-13",
+"Data source": "https://irecommend.ru/content/turoperator-neplokh-no-otelnyi-gid-otlichilsya-ne-v-luchshuyu-storonu",
+"tonality": "zero",
+"filename": "zero//turoperator-neplokh-no-otelnyi-gid-otlichilsya-ne-v-luchshuyu-storonu.txt"
+},
+{
+"student_name": "Курасов Илья",
+"student_group": 651,
+"student_number": 16,
+"date": "2019-10-08",
+"Data source": "https://irecommend.ru/content/transfer-ponravilsya-predstavitel-ambotis-vstrechayushchaya-v-otele-uzhasna",
+"tonality": "zero",
+"filename": "zero//transfer-ponravilsya-predstavitel-ambotis-vstrechayushchaya-v-otele-uzhasna.txt"
+},
+{
+"student_name": "Курасов Илья",
+"student_group": 651,
+"student_number": 16,
+"date": "2019-11-12",
+"Data source": "https://irecommend.ru/content/club-elephant-simantro-beach",
+"tonality": "p1",
+"filename": "p1//club-elephant-simantro-beach.txt"
+},
+{
+"student_name": "Курасов Илья",
+"student_group": 651,
+"student_number": 16,
+"date": "2019-11-10",
+"Data source": "https://irecommend.ru/content/ochen-khoroshaya-organizatsiya-1",
+"tonality": "p1",
+"filename": "p1//ochen-khoroshaya-organizatsiya-1.txt"
+},
+{
+"student_name": "Курасов Илья",
+"student_group": 651,
+"student_number": 16,
+"date": "2019-11-11",
+"Data source": "https://irecommend.ru/content/ya-pobyval-v-skazochnom-mire-sredizemnomorya",
+"tonality": "p1",
+"filename": "p1//ya-pobyval-v-skazochnom-mire-sredizemnomorya.txt"
+},
+{
+"student_name": "Курасов Илья",
+"student_group": 651,
+"student_number": 16,
+"date": "2019-04-07",
+"Data source": "https://irecommend.ru/content/obmanyvayut-30",
+"tonality": "m1",
+"filename": "m1//obmanyvayut-30.txt"
+},
+{
+"student_name": "Курасов Илья",
+"student_group": 651,
+"student_number": 16,
+"date": "2019-09-08",
+"Data source": "https://irecommend.ru/content/ekskursiya-po-nizhnemu-na-tramvae",
+"tonality": "zero",
+"filename": "zero//ekskursiya-po-nizhnemu-na-tramvae.txt"
+},
+{
+"student_name": "Курасов Илья",
+"student_group": 651,
+"student_number": 16,
+"date": "2019-08-14",
+"Data source": "https://irecommend.ru/content/bystro-zabronirovali-veselo-skhodili",
+"tonality": "p1",
+"filename": "p1//bystro-zabronirovali-veselo-skhodili.txt"
+},
+{
+"student_name": "Курасов Илья",
+"student_group": 651,
+"student_number": 16,
+"date": "2018-10-23",
+"Data source": "https://irecommend.ru/content/nedobrosovestnye-posredniki",
+"tonality": "m1",
+"filename": "m1//nedobrosovestnye-posredniki.txt"
+},
+{
+"student_name": "Курасов Илья",
+"student_group": 651,
+"student_number": 16,
+"date": "2019-11-15",
+"Data source": "https://irecommend.ru/content/my-otlichno-pogulyali",
+"tonality": "p1",
+"filename": "p1//my-otlichno-pogulyali.txt"
+},
+{
+"student_name": "Курасов Илья",
+"student_group": 651,
+"student_number": 16,
+"date": "2019-05-04",
+"Data source": "https://irecommend.ru/content/ne-samaya-dobrosovestnaya-kompaniya",
+"tonality": "m1",
+"filename": "m1//ne-samaya-dobrosovestnaya-kompaniya.txt"
+},
+{
+"student_name": "Курасов Илья",
+"student_group": 651,
+"student_number": 16,
+"date": "2019-10-07",
+"Data source": "https://irecommend.ru/content/petergof",
+"tonality": "p1",
+"filename": "p1//petergof.txt"
+},
+{
+"student_name": "Курасов Илья",
+"student_group": 651,
+"student_number": 16,
+"date": "2019-08-28",
+"Data source": "https://irecommend.ru/content/kruto-440",
+"tonality": "p1",
+"filename": "p1//kruto-440.txt"
+},
+{
+"student_name": "Курасов Илья",
+"student_group": 651,
+"student_number": 16,
+"date": "2019-07-19",
+"Data source": "https://irecommend.ru/content/udobnyi-sait-bolshoi-vybor",
+"tonality": "p1",
+"filename": "p1//udobnyi-sait-bolshoi-vybor.txt"
+},
+{
+"student_name": "Курасов Илья",
+"student_group": 651,
+"student_number": 16,
+"date": "2019-10-07",
+"Data source": "https://irecommend.ru/content/vse-vzveste-pered-pokupkoi",
+"tonality": "zero",
+"filename": "zero//vse-vzveste-pered-pokupkoi.txt"
+},
+{
+"student_name": "Курасов Илья",
+"student_group": 651,
+"student_number": 16,
+"date": "2019-07-23",
+"Data source": "https://irecommend.ru/content/superudobnyi-servis-gde-mnogo-neobychnykh-interesnykh-ekskursii",
+"tonality": "p1",
+"filename": "p1//superudobnyi-servis-gde-mnogo-neobychnykh-interesnykh-ekskursii.txt"
+},
+{
+"student_name": "Курасов Илья",
+"student_group": 651,
+"student_number": 16,
+"date": "2016-09-28",
+"Data source": "https://irecommend.ru/content/udobnyi-servis-dlya-bronirovaniya-ekskursii",
+"tonality": "p1",
+"filename": "p1//udobnyi-servis-dlya-bronirovaniya-ekskursii.txt"
+},
+{
+"student_name": "Курасов Илья",
+"student_group": 651,
+"student_number": 16,
+"date": "2016-09-23",
+"Data source": "https://irecommend.ru/content/sovremenno-udobno-v-odin-klik",
+"tonality": "p1",
+"filename": "p1//sovremenno-udobno-v-odin-klik.txt"
+},
+{
+"student_name": "Курасов Илья",
+"student_group": 651,
+"student_number": 16,
+"date": "2019-10-15",
+"Data source": "https://irecommend.ru/content/udobnyi-i-bystryi-servis",
+"tonality": "p1",
+"filename": "p1//udobnyi-i-bystryi-servis.txt"
+},
+{
+"student_name": "Курасов Илья",
+"student_group": 651,
+"student_number": 16,
+"date": "2019-08-23",
+"Data source": "https://irecommend.ru/content/koll-tsentr-vyruchil-spasibo",
+"tonality": "p1",
+"filename": "p1//koll-tsentr-vyruchil-spasibo.txt"
+},
+{
+"student_name": "Курасов Илья",
+"student_group": 651,
+"student_number": 16,
+"date": "2019-11-13",
+"Data source": "https://irecommend.ru/content/nikogda-ne-posovetuyu",
+"tonality": "m1",
+"filename": "m1//nikogda-ne-posovetuyu.txt"
+},
+{
+"student_name": "Курасов Илья",
+"student_group": 651,
+"student_number": 16,
+"date": "2019-09-26",
+"Data source": "https://irecommend.ru/content/khoroshaya-poezdka-vpechatlilo",
+"tonality": "p1",
+"filename": "p1//khoroshaya-poezdka-vpechatlilo.txt"
+},
+{
+"student_name": "Курасов Илья",
+"student_group": 651,
+"student_number": 16,
+"date": "2019-09-26",
+"Data source": "https://irecommend.ru/content/otlichno-3798",
+"tonality": "p1",
+"filename": "p1//otlichno-3798.txt"
+},
+{
+"student_name": "Курасов Илья",
+"student_group": 651,
+"student_number": 16,
+"date": "2019-06-26",
+"Data source": "https://irecommend.ru/content/ekonomiya-vremeni-i-nervov-3",
+"tonality": "p1",
+"filename": "p1//ekonomiya-vremeni-i-nervov-3.txt"
+},
+{
+"student_name": "Курасов Илья",
+"student_group": 651,
+"student_number": 16,
+"date": "2019-09-27",
+"Data source": "https://irecommend.ru/content/blagodaryu-za-prekrasnyi-otdykh",
+"tonality": "p1",
+"filename": "p1//blagodaryu-za-prekrasnyi-otdykh.txt"
+},
+{
+"student_name": "Курасов Илья",
+"student_group": 651,
+"student_number": 16,
+"date": "2017-09-06",
+"Data source": "https://irecommend.ru/content/agentstvo-prodaet-ekskursii-no-ne-organizuet",
+"tonality": "zero",
+"filename": "zero//agentstvo-prodaet-ekskursii-no-ne-organizuet.txt"
+},
+{
+"student_name": "Курасов Илья",
+"student_group": 651,
+"student_number": 16,
+"date": "2018-07-02",
+"Data source": "https://irecommend.ru/content/ostorozhno-budte-bditelny",
+"tonality": "m1",
+"filename": "m1//ostorozhno-budte-bditelny.txt"
+},
+{
+"student_name": "Курасов Илья",
+"student_group": 651,
+"student_number": 16,
+"date": "2019-03-28",
+"Data source": "https://irecommend.ru/content/zhutkoe-otnoshenie-k-klientom-posylayut-matom",
+"tonality": "m1",
+"filename": "m1//zhutkoe-otnoshenie-k-klientom-posylayut-matom.txt"
+},
+{
+"student_name": "Курасов Илья",
+"student_group": 651,
+"student_number": 16,
+"date": "2018-12-06",
+"Data source": "https://irecommend.ru/content/vse-bylo-zamechatelno-2",
+"tonality": "p1",
+"filename": "p1//vse-bylo-zamechatelno-2.txt"
+},
+{
+"student_name": "Курасов Илья",
+"student_group": 651,
+"student_number": 16,
+"date": "2018-08-05",
+"Data source": "https://irecommend.ru/content/budte-vnimatelny-s-etoi-turfirmoi",
+"tonality": "zero",
+"filename": "zero//budte-vnimatelny-s-etoi-turfirmoi.txt"
+},
+{
+"student_name": "Курасов Илья",
+"student_group": 651,
+"student_number": 16,
+"date": "2015-03-04",
+"Data source": "https://irecommend.ru/content/raz-na-raz-ne-prikhoditsya-85",
+"tonality": "zero",
+"filename": "zero//raz-na-raz-ne-prikhoditsya-85.txt"
+},
+{
+"student_name": "Курасов Илья",
+"student_group": 651,
+"student_number": 16,
+"date": "2017-05-10",
+"Data source": "https://irecommend.ru/content/vse-khuzhe-i-khuzhe-34",
+"tonality": "m1",
+"filename": "m1//vse-khuzhe-i-khuzhe-34.txt"
+},
+{
+"student_name": "Курасов Илья",
+"student_group": 651,
+"student_number": 16,
+"date": "2018-04-30",
+"Data source": "https://irecommend.ru/content/uzhasnaya-organizatsiya-5",
+"tonality": "m1",
+"filename": "m1//uzhasnaya-organizatsiya-5.txt"
+},
+{
+"student_name": "Курасов Илья",
+"student_group": 651,
+"student_number": 16,
+"date": "2019-07-02",
+"Data source": "https://irecommend.ru/content/nikogda-ne-svyazyvkaites-s-magazinom-priklyuchenii",
+"tonality": "m1",
+"filename": "m1//nikogda-ne-svyazyvkaites-s-magazinom-priklyuchenii.txt"
+},
+{
+"student_name": "Курасов Илья",
+"student_group": 651,
+"student_number": 16,
+"date": "2019-08-27",
+"Data source": "https://irecommend.ru/content/v-bolshinstve-sluchaev-organizuyut-ekskursii-khorosho-no-pri-ispolzovanii-ikh-uslug-nado-pri",
+"tonality": "zero",
+"filename": "zero//v-bolshinstve-sluchaev-organizuyut-ekskursii-khorosho-no-pri-ispolzovanii-ikh-uslug-nado-pri.txt"
+},
+{
+"student_name": "Курасов Илья",
+"student_group": 651,
+"student_number": 16,
+"date": "2017-01-12",
+"Data source": "https://irecommend.ru/content/eto-rossiya-0",
+"tonality": "zero",
+"filename": "zero//eto-rossiya-0.txt"
+},
+{
+"student_name": "Курасов Илья",
+"student_group": 651,
+"student_number": 16,
+"date": "2018-08-30",
+"Data source": "https://irecommend.ru/content/samoe-yarkoe-puteshestvie",
+"tonality": "p1",
+"filename": "p1//samoe-yarkoe-puteshestvie.txt"
+},
+{
+"student_name": "Курасов Илья",
+"student_group": 651,
+"student_number": 16,
+"date": "2018-09-07",
+"Data source": "https://irecommend.ru/content/spasibo-ot-nas-s-dochkoi-za-chudesnyi-otdykh",
+"tonality": "p1",
+"filename": "p1//spasibo-ot-nas-s-dochkoi-za-chudesnyi-otdykh.txt"
+},
+{
+"student_name": "Курасов Илья",
+"student_group": 651,
+"student_number": 16,
+"date": "2018-08-12",
+"Data source": "https://irecommend.ru/content/more-emotsii-vsego-za-dva-dnya",
+"tonality": "p1",
+"filename": "p1//more-emotsii-vsego-za-dva-dnya.txt"
+},
+{
+"student_name": "Курасов Илья",
+"student_group": 651,
+"student_number": 16,
+"date": "2017-06-19",
+"Data source": "https://irecommend.ru/content/chetko-slazhenno-interesno",
+"tonality": "p1",
+"filename": "p1//chetko-slazhenno-interesno.txt"
+},
+{
+"student_name": "Курасов Илья",
+"student_group": 651,
+"student_number": 16,
+"date": "2019-06-03",
+"Data source": "https://irecommend.ru/content/otlichnaya-kompaniya-prekrasnye-tury",
+"tonality": "p1",
+"filename": "p1//otlichnaya-kompaniya-prekrasnye-tury.txt"
+},
+{
+"student_name": "Курасов Илья",
+"student_group": 651,
+"student_number": 16,
+"date": "2019-06-03",
+"Data source": "https://irecommend.ru/content/otlichnaya-kompaniya-prekrasnye-tury",
+"tonality": "p1",
+"filename": "p1//otlichnaya-kompaniya-prekrasnye-tury.txt"
+}
 ]
