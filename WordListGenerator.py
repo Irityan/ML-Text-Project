@@ -66,8 +66,9 @@ def fromString(text : str) -> dict:
     return wordList
 
 
-def fromStrings(textList : list) -> dict:
+def fromStrings(textList: list) -> dict:
     wordCount = dict()
+
     for text in textList:
         _countWords(text, wordCount)
 

@@ -4,6 +4,8 @@ from WordListGenerator import load
 from TextHelper import  splitWords
 from FileHelper import  readFile
 import os
+import sys
+import operator
 
 
 class DataEncoder:
@@ -18,15 +20,20 @@ class DataEncoder:
         self.wordList = dict()
         self._invertedWordList = dict()
 
-    def setWordList(self, wordList: dict):
-        self.wordList = wordList
-        inverted = {value: key for key, value in wordList.items()}
+    def setWordList(self, wordList: dict, maxListLength: int = 0):
+        if maxListLength > 0 and maxListLength < len(wordList):
+            sortedWords = sorted(wordList.items(), key=operator.itemgetter(1))[:maxListLength]
+            self.wordList = {i[0]: i[1] for i in sortedWords}
+        else:
+            self.wordList = wordList
+
+        inverted = {value: key for key, value in self.wordList.items()}
         self._invertedWordList = DataEncoder.specialCodes.copy()
         self._invertedWordList.update({int(key) + len(DataEncoder.specialCodes) - 1: value for key, value in inverted.items()})
 
-    def setWordListFromFile(self, filepath):
+    def setWordListFromFile(self, filepath, maxListLength: int = 0):
         wordList = load(filepath)
-        self.setWordList(wordList)
+        self.setWordList(wordList, maxListLength=maxListLength)
 
     def encodeText(self, text: str, maxLength: int = -1) -> list:
         words = splitWords(text)

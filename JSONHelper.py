@@ -48,8 +48,7 @@ def mergeFiles(fileList, outputFile = None) -> list:
     for i in filePaths:
         jsonFile = getData(i)
         for element in jsonFile:
-            if not os.path.exists(element["filename"]):
-                raise Exception("{}\n Файл по данному пути не существует!".format(element["filename"]))
+            _checkElement(i, element)
             jsonData.append(element)
         #if not os.path.exists(jsonElement["filename"]):
          #   raise Exception("{}\nФайл по данному пути не существует!".format(jsonElement["filename"]))
@@ -59,6 +58,12 @@ def mergeFiles(fileList, outputFile = None) -> list:
             data = json.dump(jsonData, fp, ensure_ascii=False, indent=3)
 
     return jsonData
+
+def _checkElement(filepath, element):
+    if not os.path.exists(element["filename"]):
+        raise Exception("{}\n{}\n Файл по данному пути не существует!".format(filepath, element["filename"]))
+    elif FileHelper.readFile(element["filename"]) in (None, ""):
+        raise Exception("{}\n{}\nНе удалось прочитать файл".format(filepath, element["filename"]))
 
 def _printOutReviews(data : list):
     for i in range(len(data)):

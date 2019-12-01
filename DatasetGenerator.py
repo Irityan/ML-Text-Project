@@ -4,8 +4,11 @@ import FileHelper
 import DataEncoder
 import WordListGenerator
 import os
+from DatasetContainer import  DatasetContainer
 
-def getDatasetFromJSON(jsonFile, maxlength=0, wordListPath=None, wordListCached: bool = False, verbose: bool = True) -> (list, list):
+from DatasetContainer import  InputFormat, OutputFormat
+
+def getDatasetFromJSON(jsonFile, maxlength=0, maxWordLength=0, wordListPath=None, wordListCached: bool = False, verbose: bool = True) -> (list, list):
     if wordListCached and wordListPath == None:
         raise Exception("Установлено сохранение списка слов, но желаемый путь к списку не указан.")
 
@@ -28,12 +31,14 @@ def getDatasetFromJSON(jsonFile, maxlength=0, wordListPath=None, wordListCached:
             WordListGenerator.save(wordList, wordListPath)
 
     encoder = DataEncoder.DataEncoder()
-    encoder.setWordList(wordList)
+    encoder.setWordList(wordList, maxListLength=maxWordLength)
     encodedTexts = [encoder.encodeText(i, maxLength=maxlength) for i in reviewTexts]
 
     categories = [i[JSONHelper.JSONFields.tonality] for i in metadata]
 
-    xWhole = [encodedTexts[i] for i in range(len(encodedTexts))]
-    yWhole = [categories[i] for i in range(len(categories))]
+    container = DatasetContainer(encodedTexts, categories, encoder)
 
-    return xWhole, yWhole
+    return container
+
+#dataset = getDatasetFromJSON("..\\ML-Text-Project DATA\\allReviews.json", maxlength=200, maxWordLength=0, wordListPath="words.txt", wordListCached=True)
+#print(dataset.getData(InputFormat.text, OutputFormat.text))
