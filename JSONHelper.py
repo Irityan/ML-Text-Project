@@ -46,7 +46,13 @@ def mergeFiles(fileList, outputFile = None) -> list:
 
     jsonData = []
     for i in filePaths:
-        jsonData.extend(getData(i))
+        jsonFile = getData(i)
+        for element in jsonFile:
+            if not os.path.exists(element["filename"]):
+                raise Exception("{}\n Файл по данному пути не существует!".format(element["filename"]))
+            jsonData.append(element)
+        #if not os.path.exists(jsonElement["filename"]):
+         #   raise Exception("{}\nФайл по данному пути не существует!".format(jsonElement["filename"]))
 
     if outputFile != None:
         with open(outputFile, 'w', encoding='utf-8') as fp:
