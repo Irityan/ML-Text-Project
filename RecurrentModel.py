@@ -10,9 +10,10 @@ class RecurrentModel (BasicModel.BasicModel):
 
         model = Sequential()
         model.add(Embedding(params["maxWords"], 2, input_length=params["maxLength"]))
-        model.add(Dropout(0.25))
+        model.add(Dropout(0.1))
         model.add(Flatten())
-        model.add(Dense(1, activation='sigmoid'))
+        #model.add(Dense(1, activation='sigmoid'))
+        model.add(Dense(3, activation='sigmoid'))
 
         model.compile(optimizer='adam',
                       loss='binary_crossentropy',
@@ -23,7 +24,7 @@ class RecurrentModel (BasicModel.BasicModel):
     def fitModel(self, x, y, epochs=3):
         x = np.array(x)
         y = np.array(y)
-        result = self.model.fit(x, y, epochs=epochs)
+        result = self.model.fit(x, y, epochs=epochs, batch_size=128)
 
     def testModel(self,x,y):
         x = np.array(x)
