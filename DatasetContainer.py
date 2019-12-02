@@ -11,11 +11,13 @@ class InputFormat(Enum):
 class OutputFormat(Enum):
     text = 1
     numeric = 2
-    vector = 3
+    vector3 = 3
+    vector2 = 4
 
 class DatasetContainer:
     numericCategories = {"m1": -1, "p1": 1, "zero": 0}
-    vectorCategories = {"m1": [1.0, 0, 0], "p1": [0, 0, 1.0], "zero": [0, 1.0, 0]}
+    vector3Categories = {"m1": [1.0, 0, 0], "p1": [0, 0, 1.0], "zero": [0, 1.0, 0]}
+    vector2Categories = {"m1": [1.0, 0], "p1": [0, 1.0], "zero": [0.5, 0.5]}
 
     def __init__(self, x: list, y: list, encoder: DataEncoder):
         self._x_numeric = x
@@ -46,8 +48,10 @@ class DatasetContainer:
             return self._y_categories
         elif outputFormat == OutputFormat.numeric:
             return [self.numericCategories[i] for i in self._y_categories]
-        elif outputFormat == OutputFormat.vector:
-            return [self.vectorCategories[i] for i in self._y_categories]
+        elif outputFormat == OutputFormat.vector3:
+            return [self.vector3Categories[i] for i in self._y_categories]
+        elif outputFormat == OutputFormat.vector2:
+            return [self.vector2Categories[i] for i in self._y_categories]
         else:
             raise Exception("Неизвестный тип выходного значения")
 
