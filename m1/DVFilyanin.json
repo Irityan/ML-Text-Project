@@ -1,0 +1,892 @@
+
+{
+"student_name": "Filyanin Daniel",
+"student_group": 651,
+"student_number": 3,
+"date": "2019-07-27",
+"Data source": "https://irecommend.ru/content/ne-obrashchaites-v-etu-kompaniyu-1",
+"tonality": "m1",
+"filename": "m1//ne-obrashchaites-v-etu-kompaniyu-1.txt"
+},
+{
+"student_name": "Filyanin Daniel",
+"student_group": 651,
+"student_number": 3,
+"date": "2017-09-20",
+"Data source": "https://irecommend.ru/content/otdykha-ne-poluchilos",
+"tonality": "m1",
+"filename": "m1//otdykha-ne-poluchilos.txt"
+},
+{
+"student_name": "Filyanin Daniel",
+"student_group": 651,
+"student_number": 3,
+"date": "2019-09-03",
+"Data source": "https://irecommend.ru/content/naplevatelskoe-otnoshenie-gida-tez-tour",
+"tonality": "m1",
+"filename": "m1//naplevatelskoe-otnoshenie-gida-tez-tour.txt"
+},
+{
+"student_name": "Filyanin Daniel",
+"student_group": 651,
+"student_number": 3,
+"date": "2017-05-08",
+"Data source": "https://irecommend.ru/content/gida-ne-bylo-avtobus-prosto-koshmarnyi",
+"tonality": "m1",
+"filename": "m1//gida-ne-bylo-avtobus-prosto-koshmarnyi.txt"
+},
+{
+"student_name": "Filyanin Daniel",
+"student_group": 651,
+"student_number": 3,
+"date": "2017-07-15",
+"Data source": "https://irecommend.ru/content/samyi-khudshii-otdykh-0",
+"tonality": "m1",
+"filename": "m1//samyi-khudshii-otdykh-0.txt"
+},
+{
+"student_name": "Filyanin Daniel",
+"student_group": 651,
+"student_number": 3,
+"date": "2018-09-27",
+"Data source": "https://irecommend.ru/content/turoperator-kotoryi-ne-dumaet-o-svoikh-klientakh-i-svoei-reputatsii",
+"tonality": "m1",
+"filename": "m1//turoperator-kotoryi-ne-dumaet-o-svoikh-klientakh-i-svoei-reputatsii.txt"
+},
+{
+"student_name": "Filyanin Daniel",
+"student_group": 651,
+"student_number": 3,
+"date": "2018-02-10",
+"Data source": "https://irecommend.ru/content/vy-ne-smozhete-vernut-dengi-za-nesostoyavshuyusya-poezdku",
+"tonality": "m1",
+"filename": "m1//vy-ne-smozhete-vernut-dengi-za-nesostoyavshuyusya-poezdku.txt"
+},
+{
+"student_name": "Filyanin Daniel",
+"student_group": 651,
+"student_number": 3,
+"date": "2014-01-02",
+"Data source": "https://irecommend.ru/content/potrepali-nervy-v-aeroportu",
+"tonality": "m1",
+"filename": "m1//potrepali-nervy-v-aeroportu.txt"
+},
+{
+"student_name": "Filyanin Daniel",
+"student_group": 651,
+"student_number": 3,
+"date": "2019-05-29",
+"Data source": "https://irecommend.ru/content/naplevatelskoe-otnoshenie-i-polnaya-bezotvetstvennost",
+"tonality": "m1",
+"filename": "m1//naplevatelskoe-otnoshenie-i-polnaya-bezotvetstvennost.txt"
+},
+{
+"student_name": "Filyanin Daniel",
+"student_group": 651,
+"student_number": 3,
+"date": "2018-03-11",
+"Data source": "https://irecommend.ru/content/ne-rekomenduyu-925",
+"tonality": "m1",
+"filename": "m1//ne-rekomenduyu-925.txt"
+},
+{
+"student_name": "Filyanin Daniel",
+"student_group": 651,
+"student_number": 3,
+"date": "2018-09-13",
+"Data source": "https://irecommend.ru/content/otvratitelno-1330",
+"tonality": "m1",
+"filename": "m1//otvratitelno-1330.txt"
+},
+{
+"student_name": "Filyanin Daniel",
+"student_group": 651,
+"student_number": 3,
+"date": "2014-08-10",
+"Data source": "https://irecommend.ru/content/za-isporchennyi-otdykh-spasibo-tez-tur",
+"tonality": "m1",
+"filename": "m1//za-isporchennyi-otdykh-spasibo-tez-tur.txt"
+},
+{
+"student_name": "Filyanin Daniel",
+"student_group": 651,
+"student_number": 3,
+"date": "2013-07-27",
+"Data source": "https://irecommend.ru/content/bezotvetstvennyi-turoperator",
+"tonality": "m1",
+"filename": "m1//bezotvetstvennyi-turoperator.txt"
+},
+{
+"student_name": "Filyanin Daniel",
+"student_group": 651,
+"student_number": 3,
+"date": "2014-06-23",
+"Data source": "https://irecommend.ru/content/eto-prosto-kakoi-uzhas-2",
+"tonality": "m1",
+"filename": "m1//eto-prosto-kakoi-uzhas-2.txt"
+},
+{
+"student_name": "Filyanin Daniel",
+"student_group": 651,
+"student_number": 3,
+"date": "2017-07-05",
+"Data source": "https://irecommend.ru/content/razocharovanie-947",
+"tonality": "m1",
+"filename": "m1//razocharovanie-947.txt"
+},
+{
+"student_name": "Filyanin Daniel",
+"student_group": 651,
+"student_number": 3,
+"date": "2018-06-19",
+"Data source": "https://irecommend.ru/content/khudshii-turoperator",
+"tonality": "m1",
+"filename": "m1//khudshii-turoperator.txt"
+},
+{
+"student_name": "Filyanin Daniel",
+"student_group": 651,
+"student_number": 3,
+"date": "2017-07-04",
+"Data source": "https://irecommend.ru/content/tez-tur-khamskoe-otnoshenie-gida",
+"tonality": "m1",
+"filename": "m1//tez-tur-khamskoe-otnoshenie-gida.txt"
+},
+{
+"student_name": "Filyanin Daniel",
+"student_group": 651,
+"student_number": 3,
+"date": "2014-01-09",
+"Data source": "https://irecommend.ru/content/otvratitelno-obkhodite-ikh-storonoi",
+"tonality": "m1",
+"filename": "m1//otvratitelno-obkhodite-ikh-storonoi.txt"
+},
+{
+"student_name": "Filyanin Daniel",
+"student_group": 651,
+"student_number": 3,
+"date": "2018-03-16",
+"Data source": "https://irecommend.ru/content/uzhas-2200",
+"tonality": "m1",
+"filename": "m1//uzhas-2200.txt"
+},
+{
+"student_name": "Filyanin Daniel",
+"student_group": 651,
+"student_number": 3,
+"date": "2015-06-04",
+"Data source": "https://irecommend.ru/content/razocharovana-obsluzhivaniem-0",
+"tonality": "m1",
+"filename": "m1//razocharovana-obsluzhivaniem-0.txt"
+},
+{
+"student_name": "Filyanin Daniel",
+"student_group": 651,
+"student_number": 3,
+"date": "2016-05-13",
+"Data source": "https://irecommend.ru/content/polnaya-bezotvetstvennost-i-neuvazhenie-razocharovana",
+"tonality": "m1",
+"filename": "m1//polnaya-bezotvetstvennost-i-neuvazhenie-razocharovana.txt"
+},
+{
+"student_name": "Filyanin Daniel",
+"student_group": 651,
+"student_number": 3,
+"date": "2019-03-27",
+"Data source": "https://irecommend.ru/content/obman-i-lokhotron",
+"tonality": "m1",
+"filename": "m1//obman-i-lokhotron.txt"
+},
+{
+"student_name": "Filyanin Daniel",
+"student_group": 651,
+"student_number": 3,
+"date": "2019-07-17",
+"Data source": "https://irecommend.ru/content/moshennichestvo-50",
+"tonality": "m1",
+"filename": "m1//moshennichestvo-50.txt"
+},
+{
+"student_name": "Filyanin Daniel",
+"student_group": 651,
+"student_number": 3,
+"date": "2018-07-25",
+"Data source": "https://irecommend.ru/content/obmanyvayut-dorogo-plokhoi-servis-obsluzhivaniya",
+"tonality": "m1",
+"filename": "m1//obmanyvayut-dorogo-plokhoi-servis-obsluzhivaniya.txt"
+},
+{
+"student_name": "Filyanin Daniel",
+"student_group": 651,
+"student_number": 3,
+"date": "2017-10-26",
+"Data source": "https://irecommend.ru/content/samaya-uzhasnaya-kompaniya-na-rynke",
+"tonality": "m1",
+"filename": "m1//samaya-uzhasnaya-kompaniya-na-rynke.txt"
+},
+{
+"student_name": "Filyanin Daniel",
+"student_group": 651,
+"student_number": 3,
+"date": "2013-07-10",
+"Data source": "https://irecommend.ru/content/razvod-ot-tez-tour",
+"tonality": "m1",
+"filename": "m1//razvod-ot-tez-tour.txt"
+},
+{
+"student_name": "Filyanin Daniel",
+"student_group": 651,
+"student_number": 3,
+"date": "2013-10-24",
+"Data source": "https://irecommend.ru/content/kak-isportit-sebe-otpusk-i-rastoptat-mechtu-detstva",
+"tonality": "m1",
+"filename": "m1//kak-isportit-sebe-otpusk-i-rastoptat-mechtu-detstva.txt"
+},
+{
+"student_name": "Filyanin Daniel",
+"student_group": 651,
+"student_number": 3,
+"date": "2019-06-28",
+"Data source": "https://irecommend.ru/content/isporchennyi-otdykh-24",
+"tonality": "m1",
+"filename": "m1//isporchennyi-otdykh-24.txt"
+},
+{
+"student_name": "Filyanin Daniel",
+"student_group": 651,
+"student_number": 3,
+"date": "2014-06-11",
+"Data source": "https://irecommend.ru/content/nedobrosovestnyi-turoperator",
+"tonality": "m1",
+"filename": "m1//nedobrosovestnyi-turoperator.txt"
+},
+{
+"student_name": "Filyanin Daniel",
+"student_group": 651,
+"student_number": 3,
+"date": "2013-09-14",
+"Data source": "https://irecommend.ru/content/bud-proklyat-tot-den",
+"tonality": "m1",
+"filename": "m1//bud-proklyat-tot-den.txt"
+},
+{
+"student_name": "Filyanin Daniel",
+"student_group": 651,
+"student_number": 3,
+"date": "2016-07-04",
+"Data source": "https://irecommend.ru/content/ostalas-ochen-nedovolna-pereletom",
+"tonality": "m1",
+"filename": "m1//ostalas-ochen-nedovolna-pereletom.txt"
+},
+{
+"student_name": "Filyanin Daniel",
+"student_group": 651,
+"student_number": 3,
+"date": "2018-12-08",
+"Data source": "https://irecommend.ru/content/blagodarya-koral-trevel-ya-pobyvala-v-tyurme-izrailya-obkhodite-storonoi",
+"tonality": "m1",
+"filename": "m1//blagodarya-koral-trevel-ya-pobyvala-v-tyurme-izrailya-obkhodite-storonoi.txt"
+},
+{
+"student_name": "Filyanin Daniel",
+"student_group": 651,
+"student_number": 3,
+"date": "2018-08-26",
+"Data source": "https://irecommend.ru/content/ne-sovetuyu-ni-komu-2",
+"tonality": "m1",
+"filename": "m1//ne-sovetuyu-ni-komu-2.txt"
+},
+{
+"student_name": "Filyanin Daniel",
+"student_group": 651,
+"student_number": 3,
+"date": "2017-08-30",
+"Data source": "https://irecommend.ru/content/obmanshchiki-i-khamy-0",
+"tonality": "m1",
+"filename": "m1//obmanshchiki-i-khamy-0.txt"
+},
+{
+"student_name": "Filyanin Daniel",
+"student_group": 651,
+"student_number": 3,
+"date": "2019-08-12",
+"Data source": "https://irecommend.ru/content/ostorozhno-139",
+"tonality": "m1",
+"filename": "m1//ostorozhno-139.txt"
+},
+{
+"student_name": "Filyanin Daniel",
+"student_group": 651,
+"student_number": 3,
+"date": "2017-01-08",
+"Data source": "https://irecommend.ru/content/koral-trevel-naglo-obmanyvayut",
+"tonality": "m1",
+"filename": "m1//koral-trevel-naglo-obmanyvayut.txt"
+},
+{
+"student_name": "Filyanin Daniel",
+"student_group": 651,
+"student_number": 3,
+"date": "2017-11-28",
+"Data source": "https://irecommend.ru/content/otvratitelnaya-organizatsiya-6",
+"tonality": "m1",
+"filename": "m1//otvratitelnaya-organizatsiya-6.txt"
+},
+{
+"student_name": "Filyanin Daniel",
+"student_group": 651,
+"student_number": 3,
+"date": "2015-08-16",
+"Data source": "https://irecommend.ru/content/plokho-ot-vstrechi-s-gidom-do-proshchaniya",
+"tonality": "m1",
+"filename": "m1//plokho-ot-vstrechi-s-gidom-do-proshchaniya.txt"
+},
+{
+"student_name": "Filyanin Daniel",
+"student_group": 651,
+"student_number": 3,
+"date": "2017-07-31",
+"Data source": "https://irecommend.ru/content/otvratitelnaya-rabota-gida",
+"tonality": "m1",
+"filename": "m1//otvratitelnaya-rabota-gida.txt"
+},
+{
+"student_name": "Filyanin Daniel",
+"student_group": 651,
+"student_number": 3,
+"date": "2014-03-31",
+"Data source": "https://irecommend.ru/content/coral-travel-ochen-plokhoi-operator",
+"tonality": "m1",
+"filename": "m1//coral-travel-ochen-plokhoi-operator.txt"
+},
+{
+"student_name": "Filyanin Daniel",
+"student_group": 651,
+"student_number": 3,
+"date": "2018-03-13",
+"Data source": "https://irecommend.ru/content/o-tom-kak-ne-stoit-rabotat",
+"tonality": "m1",
+"filename": "m1//o-tom-kak-ne-stoit-rabotat.txt"
+},
+{
+"student_name": "Filyanin Daniel",
+"student_group": 651,
+"student_number": 3,
+"date": "2017-10-24",
+"Data source": "https://irecommend.ru/content/ne-rekomenduyu-ili-otritsatelnye-emotsii-v-oae-s-koralom",
+"tonality": "m1",
+"filename": "m1//ne-rekomenduyu-ili-otritsatelnye-emotsii-v-oae-s-koralom.txt"
+},
+{
+"student_name": "Filyanin Daniel",
+"student_group": 651,
+"student_number": 3,
+"date": "2018-12-06",
+"Data source": "https://irecommend.ru/content/nikomu-ne-rekomenduyu-etu-turfirmu",
+"tonality": "m1",
+"filename": "m1//nikomu-ne-rekomenduyu-etu-turfirmu.txt"
+},
+{
+"student_name": "Filyanin Daniel",
+"student_group": 651,
+"student_number": 3,
+"date": "2019-06-18",
+"Data source": "https://irecommend.ru/content/zhuliki-66",
+"tonality": "m1",
+"filename": "m1//zhuliki-66.txt"
+},
+{
+"student_name": "Filyanin Daniel",
+"student_group": 651,
+"student_number": 3,
+"date": "2019-09-15",
+"Data source": "https://irecommend.ru/content/ne-rekomenduyu-1294",
+"tonality": "m1",
+"filename": "m1//ne-rekomenduyu-1294.txt"
+},
+{
+"student_name": "Filyanin Daniel",
+"student_group": 651,
+"student_number": 3,
+"date": "2016-10-18",
+"Data source": "https://irecommend.ru/content/nedovolen-5",
+"tonality": "m1",
+"filename": "m1//nedovolen-5.txt"
+},
+{
+"student_name": "Filyanin Daniel",
+"student_group": 651,
+"student_number": 3,
+"date": "2019-07-02",
+"Data source": "https://irecommend.ru/content/obman-s-pereletom",
+"tonality": "m1",
+"filename": "m1//obman-s-pereletom.txt"
+},
+{
+"student_name": "Filyanin Daniel",
+"student_group": 651,
+"student_number": 3,
+"date": "2019-06-05",
+"Data source": "https://irecommend.ru/content/ne-bezopasno-4",
+"tonality": "m1",
+"filename": "m1//ne-bezopasno-4.txt"
+},
+{
+"student_name": "Filyanin Daniel",
+"student_group": 651,
+"student_number": 3,
+"date": "2018-08-20",
+"Data source": "https://irecommend.ru/content/nikomu-ne-sovetuyu-brat-ekskursii-u-etogo-operatora",
+"tonality": "m1",
+"filename": "m1//nikomu-ne-sovetuyu-brat-ekskursii-u-etogo-operatora.txt"
+},
+{
+"student_name": "Filyanin Daniel",
+"student_group": 651,
+"student_number": 3,
+"date": "2019-07-12",
+"Data source": "https://irecommend.ru/content/nekompetentnost-26",
+"tonality": "m1",
+"filename": "m1//nekompetentnost-26.txt"
+},
+{
+"student_name": "Filyanin Daniel",
+"student_group": 651,
+"student_number": 3,
+"date": "2018-06-30",
+"Data source": "https://irecommend.ru/content/otvratitelnaya-i-bezotvetstvennaya-kompaniya",
+"tonality": "m1",
+"filename": "m1//otvratitelnaya-i-bezotvetstvennaya-kompaniya.txt"
+},
+{
+"student_name": "Filyanin Daniel",
+"student_group": 651,
+"student_number": 3,
+"date": "2018-07-17",
+"Data source": "https://irecommend.ru/content/moshenniki-321",
+"tonality": "m1",
+"filename": "m1//moshenniki-321.txt"
+},
+{
+"student_name": "Filyanin Daniel",
+"student_group": 651,
+"student_number": 3,
+"date": "2018-07-21",
+"Data source": "https://irecommend.ru/content/ne-svyazyvaites-s-inturistom",
+"tonality": "m1",
+"filename": "m1//ne-svyazyvaites-s-inturistom.txt"
+},
+{
+"student_name": "Filyanin Daniel",
+"student_group": 651,
+"student_number": 3,
+"date": "2019-06-06",
+"Data source": "https://irecommend.ru/content/problemy-s-transferomproblemy-s-oformleniem",
+"tonality": "m1",
+"filename": "m1//problemy-s-transferomproblemy-s-oformleniem.txt"
+},
+{
+"student_name": "Filyanin Daniel",
+"student_group": 651,
+"student_number": 3,
+"date": "2017-10-11",
+"Data source": "https://irecommend.ru/content/pozor-55",
+"tonality": "m1",
+"filename": "m1//pozor-55.txt"
+},
+{
+"student_name": "Filyanin Daniel",
+"student_group": 651,
+"student_number": 3,
+"date": "2019-07-02",
+"Data source": "https://irecommend.ru/content/otvratilnyi-servis-v-inturiste",
+"tonality": "m1",
+"filename": "m1//otvratilnyi-servis-v-inturiste.txt"
+},
+{
+"student_name": "Filyanin Daniel",
+"student_group": 651,
+"student_number": 3,
+"date": "2017-07-07",
+"Data source": "https://irecommend.ru/content/otvratitelnyi-turoperator-3",
+"tonality": "m1",
+"filename": "m1//otvratitelnyi-turoperator-3.txt"
+},
+{
+"student_name": "Filyanin Daniel",
+"student_group": 651,
+"student_number": 3,
+"date": "2014-07-11",
+"Data source": "https://irecommend.ru/content/styd-i-pozor-vam-kompaniya-inturist",
+"tonality": "m1",
+"filename": "m1//styd-i-pozor-vam-kompaniya-inturist.txt"
+},
+{
+"student_name": "Filyanin Daniel",
+"student_group": 651,
+"student_number": 3,
+"date": "2018-10-20",
+"Data source": "https://irecommend.ru/content/bozhe-upasi-svyazatsya-s-nim-snova",
+"tonality": "m1",
+"filename": "m1//bozhe-upasi-svyazatsya-s-nim-snova.txt"
+},
+{
+"student_name": "Filyanin Daniel",
+"student_group": 651,
+"student_number": 3,
+"date": "2016-06-29",
+"Data source": "https://irecommend.ru/content/bardak-nesushchestvuyushchie-deshevye-tury-obkhodite-storonoi",
+"tonality": "m1",
+"filename": "m1//bardak-nesushchestvuyushchie-deshevye-tury-obkhodite-storonoi.txt"
+},
+{
+"student_name": "Filyanin Daniel",
+"student_group": 651,
+"student_number": 3,
+"date": "2017-06-01",
+"Data source": "https://irecommend.ru/content/bezobrazno-13",
+"tonality": "m1",
+"filename": "m1//bezobrazno-13.txt"
+},
+{
+"student_name": "Filyanin Daniel",
+"student_group": 651,
+"student_number": 3,
+"date": "2019-07-14",
+"Data source": "https://irecommend.ru/content/ne-svyazyvaites-s-etim-turoperatorom",
+"tonality": "m1",
+"filename": "m1//ne-svyazyvaites-s-etim-turoperatorom.txt"
+},
+{
+"student_name": "Filyanin Daniel",
+"student_group": 651,
+"student_number": 3,
+"date": "2017-09-13",
+"Data source": "https://irecommend.ru/content/izdevatelstvo-22",
+"tonality": "m1",
+"filename": "m1//izdevatelstvo-22.txt"
+},
+{
+"student_name": "Filyanin Daniel",
+"student_group": 651,
+"student_number": 3,
+"date": "2017-07-13",
+"Data source": "https://irecommend.ru/content/pervyi-i-poslednii-raz-pokupala-tur-cherez-inturist1",
+"tonality": "m1",
+"filename": "m1//pervyi-i-poslednii-raz-pokupala-tur-cherez-inturist1.txt"
+},
+{
+"student_name": "Filyanin Daniel",
+"student_group": 651,
+"student_number": 3,
+"date": "2017-10-03",
+"Data source": "https://irecommend.ru/content/obman-i-neporyadochnost-0",
+"tonality": "m1",
+"filename": "m1//obman-i-neporyadochnost-0.txt"
+},
+{
+"student_name": "Filyanin Daniel",
+"student_group": 651,
+"student_number": 3,
+"date": "2018-02-20",
+"Data source": "https://irecommend.ru/content/etot-turoperator-ne-imeet-prava-byt-na-rynke-uslug",
+"tonality": "m1",
+"filename": "m1//etot-turoperator-ne-imeet-prava-byt-na-rynke-uslug.txt"
+},
+{
+"student_name": "Filyanin Daniel",
+"student_group": 651,
+"student_number": 3,
+"date": "2017-07-14",
+"Data source": "https://irecommend.ru/content/luchshe-peshkom-chem-s-inturistom",
+"tonality": "m1",
+"filename": "m1//luchshe-peshkom-chem-s-inturistom.txt"
+},
+{
+"student_name": "Filyanin Daniel",
+"student_group": 651,
+"student_number": 3,
+"date": "2014-05-14",
+"Data source": "https://irecommend.ru/content/isporchennyi-otpusk-1",
+"tonality": "m1",
+"filename": "m1//isporchennyi-otpusk-1.txt"
+},
+{
+"student_name": "Filyanin Daniel",
+"student_group": 651,
+"student_number": 3,
+"date": "2016-05-02",
+"Data source": "https://irecommend.ru/content/nikogda-v-zhizni-ne-berite-tur-v-etoi-kompanii",
+"tonality": "m1",
+"filename": "m1//nikogda-v-zhizni-ne-berite-tur-v-etoi-kompanii.txt"
+},
+{
+"student_name": "Filyanin Daniel",
+"student_group": 651,
+"student_number": 3,
+"date": "2018-09-04",
+"Data source": "https://irecommend.ru/content/otvratitelnaya-rabota-turoperatora-inturist",
+"tonality": "m1",
+"filename": "m1//otvratitelnaya-rabota-turoperatora-inturist.txt"
+},
+{
+"student_name": "Filyanin Daniel",
+"student_group": 651,
+"student_number": 3,
+"date": "2018-10-05",
+"Data source": "https://irecommend.ru/content/neobyazatelnyi-turoperator",
+"tonality": "m1",
+"filename": "m1//neobyazatelnyi-turoperator.txt"
+},
+{
+"student_name": "Filyanin Daniel",
+"student_group": 651,
+"student_number": 3,
+"date": "2016-11-16",
+"Data source": "https://irecommend.ru/content/ostrozhno-lokhotron",
+"tonality": "m1",
+"filename": "m1//ostrozhno-lokhotron.txt"
+},
+{
+"student_name": "Filyanin Daniel",
+"student_group": 651,
+"student_number": 3,
+"date": "2016-07-05",
+"Data source": "https://irecommend.ru/content/khamstvo-i-bezdushie",
+"tonality": "m1",
+"filename": "m1//khamstvo-i-bezdushie.txt"
+},
+{
+"student_name": "Filyanin Daniel",
+"student_group": 651,
+"student_number": 3,
+"date": "2018-08-12",
+"Data source": "https://irecommend.ru/content/khuzhe-eshche-ne-videla",
+"tonality": "m1",
+"filename": "m1//khuzhe-eshche-ne-videla.txt"
+},
+{
+"student_name": "Filyanin Daniel",
+"student_group": 651,
+"student_number": 3,
+"date": "2015-06-15",
+"Data source": "https://irecommend.ru/content/khotite-isportit-svoi-otdykh-obrashchaites",
+"tonality": "m1",
+"filename": "m1//khotite-isportit-svoi-otdykh-obrashchaites.txt"
+},
+{
+"student_name": "Filyanin Daniel",
+"student_group": 651,
+"student_number": 3,
+"date": "2017-09-16",
+"Data source": "https://irecommend.ru/content/vam-sorvut-otpusk",
+"tonality": "m1",
+"filename": "m1//vam-sorvut-otpusk.txt"
+},
+{
+"student_name": "Filyanin Daniel",
+"student_group": 651,
+"student_number": 3,
+"date": "2019-06-22",
+"Data source": "https://irecommend.ru/content/ekonomiya-tsenoi-sobstvennoi-zhizni",
+"tonality": "m1",
+"filename": "m1//ekonomiya-tsenoi-sobstvennoi-zhizni.txt"
+},
+{
+"student_name": "Filyanin Daniel",
+"student_group": 651,
+"student_number": 3,
+"date": "2019-07-20",
+"Data source": "https://irecommend.ru/content/koshmar-i-uzhas-za-nashi-dengi",
+"tonality": "m1",
+"filename": "m1//koshmar-i-uzhas-za-nashi-dengi.txt"
+},
+{
+"student_name": "Filyanin Daniel",
+"student_group": 651,
+"student_number": 3,
+"date": "2018-07-12",
+"Data source": "https://irecommend.ru/content/zhutkie-vpechatleniya-ot-zaderzhki-aviareisa-v-turtsii",
+"tonality": "m1",
+"filename": "m1//zhutkie-vpechatleniya-ot-zaderzhki-aviareisa-v-turtsii.txt"
+},
+{
+"student_name": "Filyanin Daniel",
+"student_group": 651,
+"student_number": 3,
+"date": "2019-08-04",
+"Data source": "https://irecommend.ru/content/khamstvo-i-naplevatelskoe-otnoshenie",
+"tonality": "m1",
+"filename": "m1//khamstvo-i-naplevatelskoe-otnoshenie.txt"
+},
+{
+"student_name": "Filyanin Daniel",
+"student_group": 651,
+"student_number": 3,
+"date": "2018-08-09",
+"Data source": "https://irecommend.ru/content/otvratitelno-bolshe-nikogda-ne-obratimsya",
+"tonality": "m1",
+"filename": "m1//otvratitelno-bolshe-nikogda-ne-obratimsya.txt"
+},
+{
+"student_name": "Filyanin Daniel",
+"student_group": 651,
+"student_number": 3,
+"date": "2019-09-22",
+"Data source": "https://irecommend.ru/content/ne-sovetuyu-polzovatsya-1",
+"tonality": "m1",
+"filename": "m1//ne-sovetuyu-polzovatsya-1.txt"
+},
+{
+"student_name": "Filyanin Daniel",
+"student_group": 651,
+"student_number": 3,
+"date": "2018-06-06",
+"Data source": "https://irecommend.ru/content/khuzhe-prosto-predstavit-nevozmozhno",
+"tonality": "m1",
+"filename": "m1//khuzhe-prosto-predstavit-nevozmozhno.txt"
+},
+{
+"student_name": "Filyanin Daniel",
+"student_group": 651,
+"student_number": 3,
+"date": "2018-09-18",
+"Data source": "https://irecommend.ru/content/otvratitelnaya-rabota-dannogo-turoperatora",
+"tonality": "m1",
+"filename": "m1//otvratitelnaya-rabota-dannogo-turoperatora.txt"
+},
+{
+"student_name": "Filyanin Daniel",
+"student_group": 651,
+"student_number": 3,
+"date": "2018-06-26",
+"Data source": "https://irecommend.ru/content/im-na-vas-pofig",
+"tonality": "m1",
+"filename": "m1//im-na-vas-pofig.txt"
+},
+{
+"student_name": "Filyanin Daniel",
+"student_group": 651,
+"student_number": 3,
+"date": "2018-08-23",
+"Data source": "https://irecommend.ru/content/bolshe-ne-budu-svyazyvatsya-s-etim-turoperatorom",
+"tonality": "m1",
+"filename": "m1//bolshe-ne-budu-svyazyvatsya-s-etim-turoperatorom.txt"
+},
+{
+"student_name": "Filyanin Daniel",
+"student_group": 651,
+"student_number": 3,
+"date": "2018-07-16",
+"Data source": "https://irecommend.ru/content/obkhodite-storonoi-87",
+"tonality": "m1",
+"filename": "m1//obkhodite-storonoi-87.txt"
+},
+{
+"student_name": "Filyanin Daniel",
+"student_group": 651,
+"student_number": 3,
+"date": "2018-07-02",
+"Data source": "https://irecommend.ru/content/nikogda-lishit-litsenzii",
+"tonality": "m1",
+"filename": "m1//nikogda-lishit-litsenzii.txt"
+},
+{
+"student_name": "Filyanin Daniel",
+"student_group": 651,
+"student_number": 3,
+"date": "2018-07-12",
+"Data source": "https://irecommend.ru/content/otvratitelnoe-vpechatlenie-vrut-zanimayutsya-vymogatelstvom-deneg-ne-mestakh-khamyat-brosayu",
+"tonality": "m1",
+"filename": "m1//otvratitelnoe-vpechatlenie-vrut-zanimayutsya-vymogatelstvom-deneg-ne-mestakh-khamyat-brosayu.txt"
+},
+{
+"student_name": "Filyanin Daniel",
+"student_group": 651,
+"student_number": 3,
+"date": "2019-08-05",
+"Data source": "https://irecommend.ru/content/vas-razvedut-za-vashi-zhe-dengi",
+"tonality": "m1",
+"filename": "m1//vas-razvedut-za-vashi-zhe-dengi.txt"
+},
+{
+"student_name": "Filyanin Daniel",
+"student_group": 651,
+"student_number": 3,
+"date": "2019-06-13",
+"Data source": "https://irecommend.ru/content/samyi-otvratitelnyi-turoperator-bolshe-nikogda-ne-svyazhus-s-etimi-moshennikami",
+"tonality": "m1",
+"filename": "m1//samyi-otvratitelnyi-turoperator-bolshe-nikogda-ne-svyazhus-s-etimi-moshennikami.txt"
+},
+{
+"student_name": "Filyanin Daniel",
+"student_group": 651,
+"student_number": 3,
+"date": "2019-07-13",
+"Data source": "https://irecommend.ru/content/iskrenne-ne-rekomenduyu-osobenno-esli-otdykhaete-s-detmi",
+"tonality": "m1",
+"filename": "m1//iskrenne-ne-rekomenduyu-osobenno-esli-otdykhaete-s-detmi.txt"
+},
+{
+"student_name": "Filyanin Daniel",
+"student_group": 651,
+"student_number": 3,
+"date": "2019-11-01",
+"Data source": "https://irecommend.ru/content/otvratitelno-1820",
+"tonality": "m1",
+"filename": "m1//otvratitelno-1820.txt"
+},
+{
+"student_name": "Filyanin Daniel",
+"student_group": 651,
+"student_number": 3,
+"date": "2019-02-18",
+"Data source": "https://irecommend.ru/content/ekonomiya-vo-vsem-osobenno-na-turistakh",
+"tonality": "m1",
+"filename": "m1//ekonomiya-vo-vsem-osobenno-na-turistakh.txt"
+},
+{
+"student_name": "Filyanin Daniel",
+"student_group": 651,
+"student_number": 3,
+"date": "2019-06-14",
+"Data source": "https://irecommend.ru/content/svoya-produmannaya-skhema-obmana",
+"tonality": "m1",
+"filename": "m1//svoya-produmannaya-skhema-obmana.txt"
+},
+{
+"student_name": "Filyanin Daniel",
+"student_group": 651,
+"student_number": 3,
+"date": "2018-11-24",
+"Data source": "https://irecommend.ru/content/isporchennyi-otpusk-0",
+"tonality": "m1",
+"filename": "m1//isporchennyi-otpusk-0.txt"
+},
+{
+"student_name": "Filyanin Daniel",
+"student_group": 651,
+"student_number": 3,
+"date": "2019-08-16",
+"Data source": "https://irecommend.ru/content/ne-ochen-khoroshee-vpechatlenie-1",
+"tonality": "m1",
+"filename": "m1//ne-ochen-khoroshee-vpechatlenie-1.txt"
+},
+{
+"student_name": "Filyanin Daniel",
+"student_group": 651,
+"student_number": 3,
+"date": "2019-06-29",
+"Data source": "https://irecommend.ru/content/otvratitelnoe-otnoshenie-k-klientam-57",
+"tonality": "m1",
+"filename": "m1//otvratitelnoe-otnoshenie-k-klientam-57.txt"
+},
+{
+"student_name": "Filyanin Daniel",
+"student_group": 651,
+"student_number": 3,
+"date": "2017-08-19",
+"Data source": "https://irecommend.ru/content/begiiiiteee-ot-nikh",
+"tonality": "m1",
+"filename": "m1//begiiiiteee-ot-nikh.txt"
+},
