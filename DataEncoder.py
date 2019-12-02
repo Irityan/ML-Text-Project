@@ -1,12 +1,10 @@
 # -*- coding: utf-8 -*-
 
 from WordListGenerator import load
-from TextHelper import  splitWords
-from FileHelper import  readFile
-import os
-import sys
+from TextHelper import splitWords
 import operator
-
+from tensorflow.keras.preprocessing.sequence import pad_sequences
+import  numpy as np
 
 class DataEncoder:
 
@@ -21,10 +19,11 @@ class DataEncoder:
         self.invertedWordList = dict()
 
     def setWordList(self, wordList: dict, maxListLength: int = 0):
-        if maxListLength > 0 and maxListLength < len(wordList):
+        if 0 < maxListLength < len(wordList) + len(self.specialCodes):
             if maxListLength <= len(DataEncoder.specialCodes):
                 raise Exception("Длина списка слов слишком мала, необхдоимо как минимум более {} слов".format(len(DataEncoder.specialCodes)))
-            sortedWords = sorted(wordList.items(), key=operator.itemgetter(1))[:(maxListLength - len(DataEncoder.specialCodes))]
+            sortedWords = sorted(wordList.items(), key=operator.itemgetter(1))
+            sortedWords = sortedWords[:(maxListLength - len(DataEncoder.specialCodes))]
             self.wordList = {i[0]: i[1] for i in sortedWords}
         else:
             self.wordList = wordList
@@ -38,11 +37,8 @@ class DataEncoder:
         self.setWordList(wordList, maxListLength=maxListLength)
 
     def encodeText(self, text: str, maxLength: int = -1) -> list:
-        words = splitWords(text)
 
-        # Убираем лишние слова
-        if 0 < maxLength <= len(words):
-            words = words[:maxLength - 1]
+        words = splitWords(text)
 
         encodedText = [DataEncoder.startCode]
         for word in words:
@@ -51,8 +47,13 @@ class DataEncoder:
             else:
                 encodedText.append(DataEncoder.unknownCode)
 
-        if maxLength > 0 and len(encodedText) < maxLength:
-            encodedText[:0] = [DataEncoder.paddingCode]*(maxLength - len(encodedText))
+        encodedText = np.array(encodedText)
+        if maxLength > 0:
+            encodedText = pad_sequences([encodedText],
+                                        maxlen=maxLength,
+                                        padding='post',
+                                        truncating='post',
+                                        value=self.paddingCode)[0]
 
         return encodedText
 
