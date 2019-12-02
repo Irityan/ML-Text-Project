@@ -40,5 +40,5 @@ def getDatasetFromJSON(jsonFile, maxlength=0, maxWordLength=0, wordListPath=None
 
     return container
 
-#dataset = getDatasetFromJSON("..\\ML-Text-Project DATA\\allReviews.json", maxlength=200, maxWordLength=0, wordListPath="words.txt", wordListCached=True)
-#print(dataset.getData(InputFormat.text, OutputFormat.text))
+#dataset = getDatasetFromJSON("..\\ML-Text-Project DATA\\allReviews.json", maxlength=50, maxWordLength=10, wordListPath="words.txt", wordListCached=True)
+#x, y = dataset.getData(InputFormat.oneHotEncoding, OutputFormat.text)

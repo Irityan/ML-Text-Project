@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 from enum import Enum
 from DataEncoder import DataEncoder
-import  sys
+import  random
 
 class InputFormat(Enum):
     numeric = 1
@@ -51,8 +51,14 @@ class DatasetContainer:
         else:
             raise Exception("Неизвестный тип выходного значения")
 
-    def getData(self, inputFormat: InputFormat, outputFormat: OutputFormat):
+    def getData(self, inputFormat: InputFormat, outputFormat: OutputFormat, testingPercentage: float = 0.1) -> (list, list):
         x = self._getX(inputFormat)
         y = self._getY(outputFormat)
 
-        return x, y
+        combined = list(zip(x, y))
+        random.shuffle(combined)
+        x[:], y[:] = zip(*combined)
+
+        testingLength = int(len(x) * testingPercentage)
+
+        return  x[testingLength:], y[testingLength:], x[:testingLength], y[:testingLength]

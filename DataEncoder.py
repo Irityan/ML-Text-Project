@@ -41,7 +41,7 @@ class DataEncoder:
         words = splitWords(text)
 
         # Убираем лишние слова
-        if 0 < maxLength < len(words):
+        if 0 < maxLength <= len(words):
             words = words[:maxLength - 1]
 
         encodedText = [DataEncoder.startCode]
