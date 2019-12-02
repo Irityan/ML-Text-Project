@@ -18,18 +18,20 @@ class DataEncoder:
 
     def __init__(self):
         self.wordList = dict()
-        self._invertedWordList = dict()
+        self.invertedWordList = dict()
 
     def setWordList(self, wordList: dict, maxListLength: int = 0):
         if maxListLength > 0 and maxListLength < len(wordList):
-            sortedWords = sorted(wordList.items(), key=operator.itemgetter(1))[:maxListLength]
+            if maxListLength <= len(DataEncoder.specialCodes):
+                raise Exception("Длина списка слов слишком мала, необхдоимо как минимум более {} слов".format(len(DataEncoder.specialCodes)))
+            sortedWords = sorted(wordList.items(), key=operator.itemgetter(1))[:(maxListLength - len(DataEncoder.specialCodes))]
             self.wordList = {i[0]: i[1] for i in sortedWords}
         else:
             self.wordList = wordList
 
         inverted = {value: key for key, value in self.wordList.items()}
-        self._invertedWordList = DataEncoder.specialCodes.copy()
-        self._invertedWordList.update({int(key) + len(DataEncoder.specialCodes) - 1: value for key, value in inverted.items()})
+        self.invertedWordList = DataEncoder.specialCodes.copy()
+        self.invertedWordList.update({int(key) + len(DataEncoder.specialCodes) - 1: value for key, value in inverted.items()})
 
     def setWordListFromFile(self, filepath, maxListLength: int = 0):
         wordList = load(filepath)
@@ -57,10 +59,10 @@ class DataEncoder:
     def decodeText(self, text: list) -> list:
         decodedText = []
         for code in text:
-            if code >= len(self._invertedWordList):
+            if code >= len(self.invertedWordList):
                 decodedText.append(DataEncoder.specialCodes[DataEncoder.unknownCode])
             else:
-                decodedText.append(self._invertedWordList[code])
+                decodedText.append(self.invertedWordList[code])
 
         return decodedText
 
