@@ -5,18 +5,11 @@ import DataEncoder
 import WordListGenerator
 import os
 from DatasetContainer import  DatasetContainer
+import csv
 
 from DatasetContainer import  InputFormat, OutputFormat
 
-def getDatasetFromJSON(jsonFile, maxlength=0, maxWordLength=0, wordListPath=None, wordListCached: bool = False, verbose: bool = True) -> (list, list):
-    if wordListCached and wordListPath == None:
-        raise Exception("Установлено сохранение списка слов, но желаемый путь к списку не указан.")
-
-    metadata = JSONHelper.getData(jsonFile)
-
-    filepaths = [i[JSONHelper.JSONFields.filename] for i in metadata]
-    reviewTexts = FileHelper.readFiles(filepaths)
-
+def getWordList(wordListCached, wordListPath, reviewTexts, verbose):
     if wordListCached:
         if os.path.isfile(wordListPath):
             if verbose: print("Кеширование включено, найден файл '{}'. Читаю список слов из файла...".format(wordListPath))
@@ -30,6 +23,19 @@ def getDatasetFromJSON(jsonFile, maxlength=0, maxWordLength=0, wordListPath=None
         if wordListPath != None:
             WordListGenerator.save(wordList, wordListPath)
 
+    return wordList
+
+def getDatasetFromJSON(jsonFile, maxlength=0, maxWordLength=0, wordListPath=None, wordListCached: bool = False, verbose: bool = True) -> (list, list):
+    if wordListCached and wordListPath == None:
+        raise Exception("Установлено сохранение списка слов, но желаемый путь к списку не указан.")
+
+    metadata = JSONHelper.getData(jsonFile)
+
+    filepaths = [i[JSONHelper.JSONFields.filename] for i in metadata]
+    reviewTexts = FileHelper.readFiles(filepaths)
+
+    wordList = getWordList(wordListCached, wordListPath, reviewTexts, verbose)
+
     encoder = DataEncoder.DataEncoder()
     encoder.setWordList(wordList, maxListLength=maxWordLength)
     encodedTexts = [encoder.encodeText(i, maxLength=maxlength) for i in reviewTexts]
@@ -40,5 +46,30 @@ def getDatasetFromJSON(jsonFile, maxlength=0, maxWordLength=0, wordListPath=None
 
     return container
 
-#dataset = getDatasetFromJSON("..\\ML-Text-Project DATA\\allReviews.json", maxlength=50, maxWordLength=10, wordListPath="words.txt", wordListCached=True)
-#x, y = dataset.getData(InputFormat.oneHotEncoding, OutputFormat.text)
+def getDatasetFromTweetsCsv(csvPaths, maxlength=0, maxWordLength=0, wordListPath=None, wordListCached: bool = False, verbose: bool = True) -> (list, list):
+    for i in csvPaths:
+        if not os.path.isfile(i):
+            raise Exception(f"Файл '{i} не найден!'")
+
+    reviewTexts = []
+    categories = []
+
+    catTranslator = {"1" : "p1", "-1" : "m1"}
+    
+    for file in csvPaths:
+        with open(file, newline='', encoding="utf-8") as csvfile:
+            reader = csv.reader([x.replace('\0', '') for x in csvfile], delimiter=';', quotechar='"')
+            for row in reader:
+                if row != None:
+                    reviewTexts.append(row[3])
+                    categories.append(catTranslator[row[4]])
+                    
+    wordList = getWordList(wordListCached, wordListPath, reviewTexts, verbose)
+
+    encoder = DataEncoder.DataEncoder()
+    encoder.setWordList(wordList, maxListLength=maxWordLength)
+    encodedTexts = [encoder.encodeText(i, maxLength=maxlength) for i in reviewTexts]
+
+    container = DatasetContainer(encodedTexts, categories, encoder)
+
+    return container
