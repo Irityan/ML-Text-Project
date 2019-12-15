@@ -4,13 +4,23 @@ from tensorflow.keras.models import Sequential
 from tensorflow.keras.layers import Dense, Embedding, SimpleRNN
 import numpy as np
 
+from DatasetContainer import  InputFormat, OutputFormat
 
 class RecurrentModel (BasicModel.BasicModel):
     def __init__(self, params):
         model = Sequential()
         model.add(Embedding(params["maxWords"], 3, input_length=params["maxLength"]))
         model.add(SimpleRNN(5))
-        model.add(Dense(3, activation='sigmoid'))
+
+        outputFormat = params["outputFormat"]
+        if outputFormat == OutputFormat.vector3:
+            model.add(Dense(3, activation='sigmoid'))
+        elif outputFormat == OutputFormat.vector2:
+            model.add(Dense(2, activation='sigmoid'))
+        elif outputFormat == OutputFormat.numeric:
+            model.add(Dense(1, activation='sigmoid'))
+        else:
+            raise Exception("Не предоставлен корректный формат выходных данных!")
 
         model.compile(optimizer='rmsprop',
                       loss='categorical_crossentropy',

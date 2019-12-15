@@ -5,16 +5,28 @@ from tensorflow.keras.layers import Dense, Embedding, Flatten, Dropout
 from tensorflow.keras import utils
 import numpy as np
 
+from DatasetContainer import OutputFormat, InputFormat
+
+
 class FeedforwardModel (BasicModel.BasicModel):
-    def __init__(self, params):
+    def __init__(self, params: dict):
+
+        dropout = params["dropout"] if "dropout" in params.keys() else 0.1
 
         model = Sequential()
         model.add(Embedding(params["maxWords"], 2, input_length=params["maxLength"]))
-        model.add(Dropout(0.1))
+        model.add(Dropout(dropout))
         model.add(Flatten())
-        #model.add(Dense(1, activation='sigmoid'))
-        model.add(Dense(3, activation='sigmoid'))
-        #model.add(Dense(2, activation='sigmoid'))
+
+        outputFormat = params["outputFormat"]
+        if outputFormat == OutputFormat.vector3:
+            model.add(Dense(3, activation='sigmoid'))
+        elif outputFormat == OutputFormat.vector2:
+            model.add(Dense(2, activation='sigmoid'))
+        elif outputFormat == OutputFormat.numeric:
+            model.add(Dense(1, activation='sigmoid'))
+        else:
+            raise Exception("Не предоставлен корректный формат выходных данных!")
 
         model.compile(optimizer='adam',
                       loss='categorical_crossentropy',
