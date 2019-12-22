@@ -1,0 +1,10 @@
+DatasetContainer.py
+DatasetGenerator.py
+FileHelper.py
+JSONHelper.py
+jsonTest.py
+RecurrentModel.py
+testModel.py
+TextHelper.py
+uniteJSON.py
+WordListGenerator.py

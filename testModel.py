@@ -1,19 +1,22 @@
 # -*- coding: utf-8 -*-
 
-from RecurrentModel import RecurrentModel
-from FeedforwardModel import FeedforwardModel
+from Models.FeedforwardModel import FeedforwardModel
 import DatasetGenerator
 from DatasetContainer import InputFormat, OutputFormat
+import os
 import numpy as np
-import os, sys
 
 maxWords = 10000
 maxLength = 250
-jsonPath = "..\\ML-Text-Project DATA\\allReviews.json"
+#jsonPath = "..\\ML-Text-Project DATA\\allReviews.json"
+jsonPath = "reviewsParsed\\data_file.json"
 tweeterPaths = ["tweetsData\\positive.csv", "tweetsData\\negative.csv"]
 
 #dataset = DatasetGenerator.getDatasetFromJSON(jsonPath, maxlength=maxLength, maxWordLength=maxWords, wordListPath="words.txt", wordListCached=True)
-dataset = DatasetGenerator.getDatasetFromTweetsCsv(tweeterPaths, maxlength=maxLength, maxWordLength=maxWords, wordListPath="tweeterWords.txt", wordListCached=True)
+#dataset = DatasetGenerator.getDatasetFromTweetsCsv(tweeterPaths, maxlength=maxLength, maxWordLength=maxWords, wordListPath="tweeterWords.txt", wordListCached=True)
+
+dataset = DatasetGenerator.getDatasetFromJSON(jsonPath, maxlength=maxLength, maxWordLength=maxWords, wordListPath="words.txt", wordListCached=True)
+
 #x_train, y_train, x_test, y_test = dataset.getData(InputFormat.numeric, OutputFormat.numeric, testingPercentage=0.1)
 #x_train, y_train, x_test, y_test = dataset.getData(InputFormat.numeric, OutputFormat.vector3, testingPercentage=0.05)
 x_train, y_train, x_test, y_test = dataset.getData(InputFormat.numeric, OutputFormat.vector2, testingPercentage=0.2)
@@ -47,7 +50,7 @@ testText = open("negativeTest.txt", 'r').read()
 
 encodedText = dataset._dataEncoder.encodeText(testText, maxLength)
 result = currentModel.predict(encodedText)
-print("Оценка отрицательного текста: {}".format(result))
+print("Оценка отрицательного текста: {}".format(np.round(result, 2)))
 
 testText =  open("positiveTest.txt", 'r').read()
 #testText = input("Положительный отзыв:\n")
@@ -55,4 +58,5 @@ testText =  open("positiveTest.txt", 'r').read()
 
 encodedText = dataset._dataEncoder.encodeText(testText, maxLength)
 result = currentModel.predict(encodedText)
-print("Оценка положительного текста: {}".format(result))
+print("Оценка положительного текста: {}".format(np.round(result, 2)))
+

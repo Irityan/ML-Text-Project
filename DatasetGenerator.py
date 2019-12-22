@@ -6,6 +6,7 @@ import WordListGenerator
 import os
 from DatasetContainer import  DatasetContainer
 import csv
+import sys
 
 from DatasetContainer import  InputFormat, OutputFormat
 
@@ -29,7 +30,7 @@ def getDatasetFromJSON(jsonFile, maxlength=0, maxWordLength=0, wordListPath=None
     if wordListCached and wordListPath == None:
         raise Exception("Установлено сохранение списка слов, но желаемый путь к списку не указан.")
 
-    metadata = JSONHelper.getData(jsonFile)
+    metadata = JSONHelper.getData(jsonFile, skipIncorrect=True)
 
     filepaths = [i[JSONHelper.JSONFields.filename] for i in metadata]
     reviewTexts = FileHelper.readFiles(filepaths)
@@ -41,6 +42,13 @@ def getDatasetFromJSON(jsonFile, maxlength=0, maxWordLength=0, wordListPath=None
     encodedTexts = [encoder.encodeText(i, maxLength=maxlength) for i in reviewTexts]
 
     categories = [i[JSONHelper.JSONFields.tonality] for i in metadata]
+    for i in range(len(categories)):
+        if categories[i] in (1, "1"):
+            categories[i] = "p1"
+        elif categories[i] in (-1, "-1"):
+            categories[i] = "m1"
+        else:
+            categories[i] = "zero"
 
     container = DatasetContainer(encodedTexts, categories, encoder)
 

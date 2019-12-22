@@ -1,0 +1,104 @@
+Фирма "Мария" занимается воровством авторских фотографий, на просьбы убрать не реагирует и не отвечает.
+Фирма, которая не соблюдает законы, также будет относится и к своим клиентам.
+Список, украденных фотографий:
+Домен: www.maria-travel.ru
+Клон: http://www.maria-travel.ru/files/cities/421/image_1695.jpg
+Расположен на странице: http://www.maria-travel.ru/countries/2/?id=421&imgs
+Исходное изображение: http://www.biancoloto.com/lyon/103.jpg
+Расположено на странице: http://www.biancoloto.com/lyon3.html
+Клон: http://www.maria-travel.ru/sites/default/files/cities/new_veneciya.jpg
+Расположен на странице: http://www.maria-travel.ru/countries/evropa/italiya/livorno/photo
+Исходное изображение: http://www.biancoloto.com/livorno/11.jpg
+Расположено на странице: http://www.biancoloto.com/livorno/livorno.html
+Клон: http://www.maria-travel.ru/sites/default/files/cities/421/image_1695.jpg
+Расположен на странице: http://www.maria-travel.ru/countries/evropa/frantsiya/lion/photo
+Исходное изображение: http://www.biancoloto.com/lyon/103.jpg
+Расположено на странице: http://www.biancoloto.com/lyon3.html
+Клон: http://www.maria-travel.ru/files/cities/744/image_3251.jpg
+Расположен на странице: http://www.maria-travel.ru/countries/2/?id=744&imgs
+Исходное изображение: http://www.biancoloto.com/lucca/4.jpg
+Расположено на странице: http://www.biancoloto.com/lucca.html
+Клон: http://www.maria-travel.ru/sites/default/files/cities/16.jpg
+Расположен на странице: http://www.maria-travel.ru/countries/evropa/italiya/lukka
+Исходное изображение: http://www.biancoloto.com/lucca/16.jpg
+Расположено на странице: http://www.biancoloto.com/lucca.html
+Клон: http://www.maria-travel.ru/sites/default/files/cities/744/image_3251.jpg
+Расположен на странице: http://www.maria-travel.ru/countries/evropa/italiya/lukka/photo
+Исходное изображение: http://www.biancoloto.com/lucca/4.jpg
+Расположено на странице: http://www.biancoloto.com/lucca.html
+Клон: http://www.maria-travel.ru/files/cities/main/preview/16.jpg
+Расположен на странице: http://www.maria-travel.ru/countries/2/?id=744
+Исходное изображение: http://www.biancoloto.com/lucca/16.jpg
+Расположено на странице: http://www.biancoloto.com/lucca.html
+Клон: http://www.maria-travel.ru/files/cities/744/image_3248.jpg
+Расположен на странице: http://www.maria-travel.ru/countries/2/?id=744&imgs
+Исходное изображение: http://www.biancoloto.com/lucca/18.jpg
+Расположено на странице: http://www.biancoloto.com/lucca.html
+Клон: http://www.maria-travel.ru/sites/default/files/cities/744/image_3245.jpg
+Расположен на странице: http://www.maria-travel.ru/countries/evropa/italiya/lukka/photo
+Исходное изображение: http://www.biancoloto.com/lucca/10.jpg
+Расположено на странице: http://www.biancoloto.com/lucca.html
+Клон: http://www.maria-travel.ru/sites/default/files/cities/743/image_3241.jpg
+Расположен на странице: http://www.maria-travel.ru/countries/evropa/italiya/livorno/photo
+Исходное изображение: http://www.biancoloto.com/livorno/5.jpg
+Расположено на странице: http://www.biancoloto.com/livorno/livorno.html
+Клон: http://www.maria-travel.ru/sites/default/files/cities/421/image_1686.jpg
+Расположен на странице: http://www.maria-travel.ru/countries/evropa/frantsiya/lion/photo
+Исходное изображение: http://www.biancoloto.com/lyon/1.jpg
+Расположено на странице: http://www.biancoloto.com/lyon2.html
+Клон: http://www.maria-travel.ru/files/cities/744/image_3252.jpg
+Расположен на странице: http://www.maria-travel.ru/countries/2/?id=744&imgs
+Исходное изображение: http://www.biancoloto.com/lucca/6.jpg
+Расположено на странице: http://www.biancoloto.com/lucca.html
+Клон: http://www.maria-travel.ru/files/cities/744/image_3247.jpg
+Расположен на странице: http://www.maria-travel.ru/countries/2/?id=744&imgs
+Исходное изображение: http://www.biancoloto.com/lucca/1.jpg
+Расположено на странице: http://www.biancoloto.com/lucca.html
+Клон: http://www.maria-travel.ru/files/cities/744/image_3250.jpg
+Расположен на странице: http://www.maria-travel.ru/countries/2/?id=744&imgs
+Исходное изображение: http://www.biancoloto.com/lucca/9.jpg
+Расположено на странице: http://www.biancoloto.com/lucca.html
+Клон: http://www.maria-travel.ru/sites/default/files/cities/744/image_3249.jpg
+Расположен на странице: http://www.maria-travel.ru/countries/evropa/italiya/lukka/photo
+Исходное изображение: http://www.biancoloto.com/lucca/18.jpg
+Расположено на странице: http://www.biancoloto.com/lucca.html
+Клон: http://www.maria-travel.ru/sites/default/files/cities/744/image_3248.jpg
+Расположен на странице: http://www.maria-travel.ru/countries/evropa/italiya/lukka/photo
+Исходное изображение: http://www.biancoloto.com/lucca/18.jpg
+Расположено на странице: http://www.biancoloto.com/lucca.html
+Клон: http://www.maria-travel.ru/sites/default/files/cities/744/image_3250.jpg
+Расположен на странице: http://www.maria-travel.ru/countries/evropa/italiya/lukka/photo
+Исходное изображение: http://www.biancoloto.com/lucca/9.jpg
+Расположено на странице: http://www.biancoloto.com/lucca.html
+Клон: http://www.maria-travel.ru/sites/default/files/cities/744/image_3252.jpg
+Расположен на странице: http://www.maria-travel.ru/countries/evropa/italiya/lukka/photo
+Исходное изображение: http://www.biancoloto.com/lucca/6.jpg
+Расположено на странице: http://www.biancoloto.com/lucca.html
+Клон: http://www.maria-travel.ru/sites/default/files/cities/0.jpg
+Расположен на странице: http://www.maria-travel.ru/countries/evropa/italiya/kremona
+Исходное изображение: http://www.biancoloto.com/cremona/0.jpg
+Расположено на странице: http://www.biancoloto.com/cremona/cremona.html
+Клон: http://www.maria-travel.ru/files/cities/421/image_1686.jpg
+Расположен на странице: http://www.maria-travel.ru/countries/2/?id=421&imgs
+Исходное изображение: http://www.biancoloto.com/lyon/1.jpg
+Расположено на странице: http://www.biancoloto.com/lyon2.html
+Клон: http://www.maria-travel.ru/sites/default/files/cities/744/image_3247.jpg
+Расположен на странице: http://www.maria-travel.ru/countries/evropa/italiya/lukka/photo
+Исходное изображение: http://www.biancoloto.com/lucca/1.jpg
+Расположено на странице: http://www.biancoloto.com/lucca.html
+Клон: http://www.maria-travel.ru/files/cities/744/image_3246.jpg
+Расположен на странице: http://www.maria-travel.ru/countries/2/?id=744&imgs
+Исходное изображение: http://www.biancoloto.com/lucca/14.jpg
+Расположено на странице: http://www.biancoloto.com/lucca.html
+Клон: http://www.maria-travel.ru/files/cities/744/image_3245.jpg
+Расположен на странице: http://www.maria-travel.ru/countries/2/?id=744&imgs
+Исходное изображение: http://www.biancoloto.com/lucca/10.jpg
+Расположено на странице: http://www.biancoloto.com/lucca.html
+Клон: http://www.maria-travel.ru/files/cities/744/image_3249.jpg
+Расположен на странице: http://www.maria-travel.ru/countries/2/?id=744&imgs
+Исходное изображение: http://www.biancoloto.com/lucca/18.jpg
+Расположено на странице: http://www.biancoloto.com/lucca.html
+Клон: http://www.maria-travel.ru/sites/default/files/cities/744/image_3246.jpg
+Расположен на странице: http://www.maria-travel.ru/countries/evropa/italiya/lukka/photo
+Исходное изображение: http://www.biancoloto.com/lucca/14.jpg
+Расположено на странице: http://www.biancoloto.com/lucca.html

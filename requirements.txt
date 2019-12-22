@@ -1,1 +1,2 @@
+tensorflow
 chardet==3.0.4
