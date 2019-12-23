@@ -38,7 +38,7 @@ class DataEncoder:
 
     def encodeText(self, text: str, maxLength: int = -1) -> list:
 
-        words = splitWords(text)
+        words = splitWords(text.lower())
 
         encodedText = [DataEncoder.startCode]
         for word in words:

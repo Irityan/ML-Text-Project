@@ -2,11 +2,13 @@
 from enum import Enum
 from DataEncoder import DataEncoder
 import  random
+from tensorflow.keras.preprocessing.text import Tokenizer
 
 class InputFormat(Enum):
     numeric = 1
     text = 2
     oneHotEncoding = 3
+    tokenized = 4
 
 class OutputFormat(Enum):
     text = 1
@@ -24,6 +26,10 @@ class DatasetContainer:
         self._y_categories = y
         self._dataEncoder = encoder
 
+        texts = self._getX(InputFormat.text)
+        self.tokenizer = Tokenizer()
+        self.tokenizer.fit_on_texts(texts)
+
     def _getX(self, inputFormat):
         if inputFormat == InputFormat.numeric:
             return self._x_numeric
@@ -40,6 +46,10 @@ class DatasetContainer:
                     reviewEncoded.append(wordEncoded)
                 onehot.append(reviewEncoded)
             return onehot
+        elif inputFormat == InputFormat.tokenized:
+            texts = self._getX(InputFormat.text)
+            return self.tokenizer.texts_to_sequences(texts)
+
         else:
             raise Exception("Неизвестный тип входного значения")
 

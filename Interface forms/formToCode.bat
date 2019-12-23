@@ -1,0 +1,1 @@
+pyuic5 categorizeReviews.ui -o categorizeReviewsGUI.py

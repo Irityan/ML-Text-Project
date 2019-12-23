@@ -10,8 +10,8 @@ from DatasetContainer import OutputFormat
 class RecurrentModel (BasicModel):
     def __init__(self, params):
         model = Sequential()
-        model.add(Embedding(params["maxWords"], 3, input_length=params["maxLength"]))
-        model.add(SimpleRNN(5))
+        model.add(Embedding(params["maxWords"], 2, input_length=params["maxLength"]))
+        model.add(SimpleRNN(7))
 
         outputFormat = params["outputFormat"]
         if outputFormat == OutputFormat.vector3:
