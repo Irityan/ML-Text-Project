@@ -46,7 +46,7 @@ def trainAndTestModel(dataSource, modelType, modelName, outputFormat):
     modelPath = os.path.join(modelsFolder, modelName)
 
     if not os.path.exists(modelPath):
-        currentModel.fitModel(x_train, y_train, epochs=20)
+        currentModel.fitModel(x_train, y_train, epochs=50)
         currentModel.saveModel(modelPath)
     else:
         currentModel.loadModel(modelPath)

@@ -33,12 +33,3 @@ class RecurrentModel (BasicModel):
         x = np.array(x)
         y = np.array(y)
         result = self.model.fit(x, y, epochs=epochs, batch_size=128)
-
-    def testModel(self, x, y):
-        x = np.array(x)
-        y = np.array(y)
-        loss, acc = self.model.evaluate(x, y, verbose=True)
-
-    def predict(self, x):
-        return self.model.predict(np.array([x]))
-

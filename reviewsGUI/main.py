@@ -15,6 +15,9 @@ from DataEncoder import  DataEncoder
 import WordListGenerator
 from DatasetContainer import  OutputFormat
 
+from Models.BasicModel import BasicModel
+from Models.FeedforwardModel import FeedforwardModel
+
 class DataSources(Enum):
     twitterData = 1
     reviewsData = 2
@@ -45,7 +48,12 @@ modelPaths = {(DataSources.twitterData, ModelType.recurrent): "ModelsTrained/twe
               (DataSources.reviewsData, ModelType.recurrent): "ModelsTrained/reviewsModel[Reccurrent]",
               (DataSources.reviewsData, ModelType.feedforward): "ModelsTrained/reviewsModel[Feedworward]"}
 
-models = {key: tf.keras.models.load_model(value) for key, value in modelPaths.items()}
+#models = {key: tf.keras.models.load_model(value) for key, value in modelPaths.items()}
+models = {key: BasicModel(None) for key in modelPaths}
+
+for key in models:
+    models[key].loadModel(modelPaths[key])
+
 
 modelFullNames = {(DataSources.twitterData, ModelType.recurrent): "Корпус твитов, Рекуррентная  модель",
                   (DataSources.twitterData, ModelType.feedforward): "Корпус твитов, Модель прямого распр.",
@@ -91,12 +99,16 @@ class ReviewsGUI(QtWidgets.QMainWindow, design.Ui_MainWindow):
 
     def analyzeReview(self):
         reviewText = str(self.reviewInput.toPlainText())
-        print(self.dataEncoder.wordList)
+        #print(self.dataEncoder.wordList)
         encodedText = self.dataEncoder.encodeText(reviewText, maxLength=250)
-        print(encodedText)
 
         currentModel = models[self.currentData, self.currentModel]
-        result = currentModel.predict(np.array([encodedText]))
+
+        #currentModel = FeedforwardModel({"maxWords": 250, "maxLength": 10000, "dropout": 0.2, "outputFormat": OutputFormat.vector3})
+        #currentModel.loadModel("../ModelsTrained/reviewsModel[Feedworward]")
+
+        #result = currentModel.predict(np.array([encodedText]))
+        result = currentModel.predict(encodedText)
         result = result[0]
         print(result)
 

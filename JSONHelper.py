@@ -53,18 +53,18 @@ def getData(inputFile, skipIncorrect:bool = False) -> list:
             _checkElement(inputFile, jsonData[i])
         except Exception as e:
             if skipIncorrect:
-                print(e)
+                #print(e)
                 incorrectElements[i] = True
             else:
                 raise e
 
-    print(incorrectElements)
+    #print(incorrectElements)
 
-    print(f"Длина списка элементов: {len(jsonData)}")
+    #print(f"Длина списка элементов: {len(jsonData)}")
 
     if skipIncorrect:
         jsonData = [jsonData[i] for i in range(len(jsonData)) if not incorrectElements[i]]
-        print(f"Длина списка после удаления неверных элементов: {len(jsonData)}")
+        #print(f"Длина списка после удаления неверных элементов: {len(jsonData)}")
 
     return jsonData
 

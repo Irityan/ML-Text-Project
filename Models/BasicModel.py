@@ -1,12 +1,11 @@
 # -*- coding: utf-8 -*-
 import tensorflow as tf
-
+import numpy as np
 
 class BasicModel:
 
     def __init__(self, params):
         self.model = None
-        raise NotImplementedError
 
     def fitModel(self, x, y, epochs):
         raise NotImplementedError
@@ -19,3 +18,13 @@ class BasicModel:
 
     def loadModel(self, path):
         self.model = tf.keras.models.load_model(path)
+
+    def predict(self, x):
+        return self.model.predict(np.array([x]))
+
+    def testModel(self, x, y):
+        x = np.array(x)
+        y = np.array(y)
+        loss, acc = self.model.evaluate(x, y, verbose=True)
+
+        return loss, acc
